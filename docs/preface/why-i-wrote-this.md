@@ -1,4 +1,16 @@
-0.1. Why I Wrote This
+---
+id: preface-why-i-wrote-this
+slug: /preface/why-i-wrote-this
+
+sidebar_label: 'Why I Wrote This'
+sidebar_position: 2
+
+title: Why I Wrote This
+description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+
+---
+
+# Why I Wrote This
 
 There are a number of reasons why I decided to write and publish the Fundraising Lore.
 
