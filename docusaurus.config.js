@@ -4,15 +4,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'The Fundraising Lore',
+  tagline: 'Guide to early-stage VC fundraising',
+  url: 'https://lore.vc',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'dvitanov', // Usually your GitHub org/user name.
+  projectName: 'lorevc', // Usually your repo name.
 
   presets: [
     [
@@ -22,15 +22,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/dvitanov/lorevc/edit/master/',
           routeBasePath: '/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true
         },
-        blog: {
+        /**blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
-        },
+        },*/
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -42,8 +44,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
-        logo: {
+        title: 'The Fundraising Lore',
+        /**logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
@@ -60,11 +62,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'GitHub',
             position: 'right',
           },
-        ],
+        ],*/
       },
       footer: {
         style: 'dark',
-        links: [
+        /**links: [
           {
             title: 'Docs',
             items: [
@@ -95,8 +97,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Get in Touch',
+                href: 'mailto:hello@deyanvitanov.com',
               },
               {
                 label: 'GitHub',
@@ -104,8 +106,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
             ],
           },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        ],*/
+        copyright: `All content on <a href="https://lore.vc">lore.vc</a> is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
