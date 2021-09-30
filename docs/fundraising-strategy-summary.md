@@ -1,10 +1,10 @@
 ---
-id: fundraising-strategy-overview-fundraising-strategy-summary
-slug: /fundraising-strategy-overview/fundraising-strategy-summary
+id: fundraising-strategy-summary
+slug: /fundraising-strategy-summary
 custom_edit_url: null
 
 sidebar_label: 'Fundraising Strategy Summary'
-sidebar_position: 1
+sidebar_position: 4
 
 title: Fundraising Strategy Summary
 description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
