@@ -1,6 +1,7 @@
 ---
 id: preface-how-i-am-qualified
 slug: /preface/how-i-am-qualified
+custom_edit_url: null
 
 sidebar_label: 'How I am Qualified'
 sidebar_position: 1

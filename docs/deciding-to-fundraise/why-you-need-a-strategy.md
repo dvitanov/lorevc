@@ -1,6 +1,7 @@
 ---
-id: preface-why-you-need-a-strategy
-slug: /preface/why-you-need-a-strategy
+id: deciding-to-fundraise-why-you-need-a-strategy
+slug: /deciding-to-fundraise/why-you-need-a-strategy
+custom_edit_url: null
 
 sidebar_label: 'Why You Need a Strategy'
 sidebar_position: 1

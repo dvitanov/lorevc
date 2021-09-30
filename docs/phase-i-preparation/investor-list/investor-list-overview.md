@@ -1,16 +1,17 @@
 ---
-id: phase-i-preparation-investor-list-overview
-slug: /phase-i-preparation/investor-list/overview
+id: phase-i-preparation-investor-list-investor-list-overview
+slug: /phase-i-preparation/investor-list/investor-list-overview
+custom_edit_url: null
 
-sidebar_label: 'Overview'
+sidebar_label: 'Investor List Overview'
 sidebar_position: 1
 
-title: Overview
+title: Investor List Overview
 description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
 
 ---
 
-# Overview
+# Investor List Overview
 
 You can’t pitch if you have nobody to pitch to. That is why it is important to build a list of investors. 
 

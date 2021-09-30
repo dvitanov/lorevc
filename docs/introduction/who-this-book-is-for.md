@@ -1,6 +1,7 @@
 ---
 id: introduction-who-this-book-is-for
 slug: /introduction/who-this-book-is-for
+custom_edit_url: null
 
 sidebar_label: 'Who This Book is For'
 sidebar_position: 2
@@ -16,13 +17,13 @@ The Fundraising Lore is a guide to help founder CEOs successfully raise early-st
 
 ### Founder CEOs
 
-While other founders and execs can assist in some aspects, fundraising is fundamentally a CEO responsibility (more on this topic in Time Commitment). Thus, I focus on and assume that relevant readers are founding CEOs. 
+While other founders and execs can assist in some aspects, fundraising is fundamentally a CEO responsibility (more on this topic in [Time Commitment](/deciding-to-fundraise/tactical-considerations/time-commitment)). Thus, I focus on and assume that relevant readers are founding CEOs. 
 
-I have taken extra care to provide additional context whenever possible, hoping to help first-time founders in particular.
+I have taken extra care to provide additional context whenever possible, hoping to help **first-time founders** in particular.
 
 ### Early-stage
 
-The Fundraising Lore focuses on early-stage fundraising, which currently means seed and series A rounds. These terms refer to the first financing rounds that include institutional capital. That means venture capital rather than checks written by individuals investing their own money (such as angels). More on the VC model in Company / VC Fit.
+The Fundraising Lore focuses on early-stage fundraising, which currently means seed and series A rounds. These terms refer to the first financing rounds that include institutional capital. That means venture capital rather than checks written by individuals investing their own money (such as angels). More on the VC model in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit).
 
 ### Silicon Valley Investors
 
@@ -30,4 +31,4 @@ My fundraising experience is primarily in Silicon Valley and thus the Fundraisin
 
 The venture and startup ecosystems are becoming more global by the minute. So, with time, differences between Silicon Valley and the rest of the world might diminish. Still, if you are fundraising from investors based outside of Silicon Valley, you should exercise caution when applying advice from the Fundraising Lore. You will probably need to make significant adjustments in your fundraising strategy. 
 
-That being said, the Fundraising Lore does not assume that you are a Silicon Valley insider, unlike other similar guides that take it for granted that you have access to VCs. Indeed, this guide explicitly addresses how to build a network - from scratch! - to take advantage of everything the Valley has to offer. More on that in Network with Entrepreneurs.
+That being said, the **Fundraising Lore does not assume that you are a Silicon Valley insider**, unlike other similar guides that take it for granted that you have access to VCs. Indeed, this guide explicitly addresses how to build a network - from scratch! - to take advantage of everything the Valley has to offer. More on that in [Network with Entrepreneurs](/phase-i-preparation/network-with-entrepreneurs/why-network).

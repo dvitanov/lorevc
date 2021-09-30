@@ -1,6 +1,7 @@
 ---
 id: phase-i-preparation-fundraising-materials-ten-pager
 slug: /phase-i-preparation/fundraising-materials/ten-pager
+custom_edit_url: null
 
 sidebar_label: '10-Pager'
 sidebar_position: 5
@@ -20,9 +21,9 @@ Here are a few guidelines about creating an effective pitch:
 
 * However, in my experience, the problem-solution approach creates rather dry fundraising decks that are mostly mechanical in nature. By contrast, the most effective pitches are great at telling a story, which is inspirational and emotional beyond just solving a customer pain. I believe that this matters not just for investors, but also for recruiting, sales, partnerships, media outreach, and so on. 
 
-* That is why I recommend starting with a worldly trend. Great decks - and great companies! - are about a unique insight into the future. Try answering the question how is the world conspiring to enable the opportunity you are working on. This tends to work especially well if you can combine it with a strong opener that explains how you are uniquely qualified to spot this trend before anyone else and why you understand a secret that remains hidden for the majority of the rest of the world. Even though it’s not an early stage deck, you can check out Pendo’s Series B pitch for an example of this approach (original link here, backup here).
+* That is why I recommend starting with a worldly trend. Great decks - and great companies! - are about a unique insight into the future. Try answering the question how is the world conspiring to enable the opportunity you are working on. This tends to work especially well if you can combine it with a strong opener that explains how you are uniquely qualified to spot this trend before anyone else and why you understand a secret that remains hidden for the majority of the rest of the world. Even though it’s not an early stage deck, you can check out [Pendo’s Series B pitch](https://www.pendo.io/pendo-blog/pendos-series-b-slide-deck/) for an example of this approach ([backup](https://www.dropbox.com/s/sbmwzqhniznzc0s/Pendo-Series-B-Pitch-Presentation_watermark.pdf?dl=0)).
 
-* Whatever approach you take, make sure to cover all major topics that investors expect to see. For a good list, check out Sequoia’s “Writing a Business Plan” (original link here, backup here).
+* Whatever approach you take, make sure to cover all major topics that investors expect to see. For a good list, check out Sequoia’s [“Writing a Business Plan”](https://www.sequoiacap.com/article/writing-a-business-plan/) ([backup](https://www.dropbox.com/s/a4qgoy5xt3as5me/Sequoia%20-%20Writing%20a%20Business%20Plan.pdf?dl=0)).
 
 * Each slide should argue 1 point and be as simple as possible. What you are looking for is the kind of slide that an investor can look at, get immediately, and then nod in approval. Investors have famously short attention spans, so the emphasis is on simplicity. This is harder to accomplish than it sounds..
 

@@ -1,6 +1,7 @@
 ---
-id: preface-company-vc-fit
-slug: /preface/company-vc-fit
+id: deciding-to-fundraise-company-vc-fit
+slug: /deciding-to-fundraise/company-vc-fit
+custom_edit_url: null
 
 sidebar_label: 'Company / VC Fit'
 sidebar_position: 3
@@ -16,7 +17,7 @@ Venture capital (VC) is a unique asset class, which has played a key role in hel
 
 Consider: in 2020, US VC dollars invested were $130B. That’s a lot of money and the pie keeps growing, but it’s still relatively small compared to other asset classes. For example, US private equity dry powder was $2.9T according to Statista. That’s T as in trillion.
 
-From the perspective of a fundraising founder, the key thing to know about VC is that it is a business of extreme outliers.
+From the perspective of a fundraising founder, the key thing to know about VC is that it is a business of **extreme outliers**.
 
 ### Brief Primer on How Venture Capital Works
 
@@ -25,9 +26,9 @@ VC firms are created and managed by General Partners (GPs). GPs contribute their
 LPs invest in venture capital firms in order to maximize their returns and diversify their portfolio. Therefore, venture capital is ultimately assessed in comparison to investing in other assets. A good rule of thumb is that for a VC fund to be competitive, they need to return 3x their fund size over the typical fund lifetime, which is 10 years. Returns are realized when a portfolio company gets acquired in an M&A or IPOs on a stock exchange.
 
 The GPs go out and hopefully raise a new fund from LPs every 2-3 years. For each fund:
-	•	30% goes into new investments in the first 3-5 years of the fund. Early-stage VCs have a 10-20% ownership target when they invest.
-	•	60% goes into reserves, which are used to maintain ownership stakes in fund winners by doing follow-on investments.
-	•	10% goes towards fees. Note that GPs typically get paid with the so-called 2 / 20 model - 2% annual management fee on assets under management and 20% of profits made above a certain benchmark.
+* 30% goes into new investments in the first 3-5 years of the fund. Early-stage VCs have a 10-20% ownership target when they invest.
+* 60% goes into reserves, which are used to maintain ownership stakes in fund winners by doing follow-on investments.
+* 10% goes towards fees. Note that GPs typically get paid with the so-called 2 / 20 model - 2% annual management fee on assets under management and 20% of profits made above a certain benchmark.
 
 Note that the above description is quite generalized - there are a lot of details and exceptions I have omitted since this guide is not focused on VC but on fundraising from VCs. For those curious, there are plenty of great resources a Google search away, which do a fantastic job of expanding on the details of how the VC model works.
 

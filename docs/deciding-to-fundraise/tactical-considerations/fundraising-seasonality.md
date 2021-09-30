@@ -1,6 +1,7 @@
 ---
-id: preface-fundraising-seasonality
-slug: /preface/fundraising-seasonality
+id: deciding-to-fundraise-tactical-considerations-fundraising-seasonality
+slug: /deciding-to-fundraise/tactical-considerations/fundraising-seasonality
+custom_edit_url: null
 
 sidebar_label: 'Fundraising Seasonality'
 sidebar_position: 4

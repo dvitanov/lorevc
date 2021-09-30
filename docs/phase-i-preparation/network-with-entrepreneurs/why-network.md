@@ -1,6 +1,7 @@
 ---
-id: phase-i-preparation-networking-with-entrepreneurs-why-network
-slug: /phase-i-preparation/networking-with-entrepreneurs/why-network
+id: phase-i-preparation-network-with-entrepreneurs-why-network
+slug: /phase-i-preparation/network-with-entrepreneurs/why-network
+custom_edit_url: null
 
 sidebar_label: 'Why Network?'
 sidebar_position: 1
@@ -18,7 +19,7 @@ Please don’t make the mistake of underestimating this effort. Networking will 
 
 Before I talk about how to go about networking, let’s first expand on why network in the first place. The reason becomes obvious once one considers the priorities in Phase II - Fundraising. Basically, to execute a successful fundraise, a founder has to connect with investors and pitch them with the aim of finding at least a few interested in coming on board and funding the company. 
 
-But connecting with investors is not like connecting with other kinds of working professionals. Because investors manage capital and capital is useful for any kind of business endeavor, VCs are constantly bombarded by entrepreneurs asking them to invest. This dynamic is made worse because most founders don’t take the time to understand the asset class and determine whether they are a good fit for it as covered in Company / VC Fit. Indeed, entrepreneurs have no incentive to do that because nowadays it is very easy to find the contact info of investors and just spam them. 
+But connecting with investors is not like connecting with other kinds of working professionals. Because investors manage capital and capital is useful for any kind of business endeavor, VCs are constantly bombarded by entrepreneurs asking them to invest. This dynamic is made worse because most founders don’t take the time to understand the asset class and determine whether they are a good fit for it as covered in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit). Indeed, entrepreneurs have no incentive to do that because nowadays it is very easy to find the contact info of investors and just spam them. 
 
 On top of that, startup investing is like looking for a needle in a haystack. It’s very hard to tell what might or might not work early on. In the beginning, all startups look kind of crappy. They really don’t have a lot going for them outside of the vision, grit, and determination of the founders. And they are usually based on a very specific insight, which can be hard to understand for a company outsider such as an early-stage investor.
 

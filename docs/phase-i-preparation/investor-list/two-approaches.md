@@ -1,6 +1,7 @@
 ---
 id: phase-i-preparation-investor-list-two-approaches
 slug: /phase-i-preparation/investor-list/two-approaches
+custom_edit_url: null
 
 sidebar_label: 'Two Approaches'
 sidebar_position: 2
@@ -24,4 +25,4 @@ The above sidebar notwithstanding, by definition, you are well-networked with su
 
 ### Top-down
 
-Top-down means identifying investors that you may not (yet) be networked with. Naturally, the idea is to identify investors who would be a great fit for the kind of company you are working on. The price you pay is having to work harder to get access to these investors. I discuss how to do that in Network with Entrepreneurs.
+Top-down means identifying investors that you may not (yet) be networked with. Naturally, the idea is to identify investors who would be a great fit for the kind of company you are working on. The price you pay is having to work harder to get access to these investors. I discuss how to do that in [How to Network with Entrepreneurs](/phase-i-preparation/network-with-entrepreneurs/how-to-network-with-entrepreneurs).

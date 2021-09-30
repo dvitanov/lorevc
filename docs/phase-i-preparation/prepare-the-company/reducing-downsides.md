@@ -1,6 +1,7 @@
 ---
 id: phase-i-preparation-prepare-the-company-reducing-downsides
 slug: /phase-i-preparation/prepare-the-company/reducing-downsides
+custom_edit_url: null
 
 sidebar_label: 'Reducing Downsides'
 sidebar_position: 2
@@ -25,7 +26,7 @@ Thus, I recommend being very conservative with such tactics. Unless something is
 
 ### Time Management
 
-One of the hardest aspects of fundraising is that it is a full-time job for the CEO of the company. This is a problem because running the company itself is also a full-time job. Until cloning becomes possible, this creates a conundrum - namely, how to split your time as the CEO?
+One of the hardest aspects of fundraising is that it is a [full-time job for the CEO](/deciding-to-fundraise/tactical-considerations/time-commitment) of the company. This is a problem because running the company itself is also a full-time job. Until cloning becomes possible, this creates a conundrum - namely, how to split your time as the CEO?
 
 Fundraising is a rare and important event of the “do or do not, there is no try” kind. And if it works, it can help put your company on a whole different trajectory. That is why, if you have committed to fundraising, you need to give it your all - otherwise, it just won’t work.
 

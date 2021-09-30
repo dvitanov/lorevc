@@ -1,6 +1,7 @@
 ---
 id: introduction-how-to-use-the-fundraising-lore
 slug: /introduction/how-to-use-the-fundraising-lore
+custom_edit_url: null
 
 sidebar_label: 'How to Use the Fundraising Lore'
 sidebar_position: 4
@@ -16,7 +17,7 @@ Here are a few guidelines for taking advantage of the Fundraising Lore:
 
 ### Make it your own
 
-The Fundraising Lore aims to outline a coherent fundraising strategy assuming no special advantages other than grit. But it is not the “one true way” to raise money. Indeed, as I explain in Disclaimers, there is no such thing. 
+The Fundraising Lore aims to outline a coherent fundraising strategy assuming no special advantages other than grit. But it is not the “one true way” to raise money. Indeed, as I explain in [Disclaimers](/preface/disclaimers), there is no such thing. 
 
 So don’t blindly follow advice, regardless of who is giving it or where it’s coming from, including the Fundraising Lore. Do what feels right and authentic. Create your own flavor by using whatever makes sense to you.
 
@@ -28,4 +29,4 @@ The Fundraising Lore sheds light on the game and its rules, aiming to empower fo
 
 I urge you not to fall prey to that dynamic. Ultimately, fundraising is an important element of building a business, but it is not a substitute for actually building the business. It’s just an enabler. Raising more money or becoming better at fundraising does not guarantee success (it might even correlate negatively with success..).
 
-So my advice is to play the game when you need to but resist hard getting sucked in by it. The way to do that is to be disciplined. Figure out why you are fundraising and your fundraising strategy. Then get the job done as quickly and efficiently as possible - so you can go back to building the business. Because that’s what really matters - building a great business. All the rest - including fundraising - are just (sometimes necessary) details along the way.
+So my advice is to play the game when you need to but resist hard getting sucked in by it. The way to do that is to be disciplined. Figure out [why you are fundraising](/deciding-to-fundraise/the-purpose-of-fundraising) and [your fundraising strategy](/fundraising-strategy-overview/fundraising-strategy-summary). Then get the job done as quickly and efficiently as possible - so you can go back to building the business. Because that’s what really matters - building a great business. All the rest - including fundraising - are just (sometimes necessary) details along the way.

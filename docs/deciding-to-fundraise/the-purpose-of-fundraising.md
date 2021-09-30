@@ -1,6 +1,7 @@
 ---
-id: preface-the-purpose-of-fundraising
-slug: /preface/the-purpose-of-fundraising
+id: deciding-to-fundraise-the-purpose-of-fundraising
+slug: /deciding-to-fundraise/the-purpose-of-fundraising
+custom_edit_url: null
 
 sidebar_label: 'The Purpose of Fundraising'
 sidebar_position: 2
@@ -14,7 +15,7 @@ description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founde
 
 Fundraising is an option and a tool in the broader context of building a company. This naturally begs the question, how does one think about fundraising? What is its actual purpose within the broader corporate strategy?
 
-I believe that the purpose of early-stage fundraising is to get a clean swing. 
+I believe that the purpose of early-stage fundraising is to get a **clean swing**. 
 
 Let’s unpack this a bit further:
 

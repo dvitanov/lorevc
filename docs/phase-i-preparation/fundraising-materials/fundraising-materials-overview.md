@@ -1,16 +1,17 @@
 ---
-id: phase-i-preparation-fundraising-materials-overview
-slug: /phase-i-preparation/fundraising-materials/overview
+id: phase-i-preparation-fundraising-materials-fundraising-materials-overview
+slug: /phase-i-preparation/fundraising-materials/fundraising-materials-overview
+custom_edit_url: null
 
-sidebar_label: 'Overview'
+sidebar_label: 'Fundraising Materials Overview'
 sidebar_position: 1
 
-title: Overview
+title: Fundraising Materials Overview
 description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
 
 ---
 
-# Overview
+# Fundraising Materials Overview
 
 The first important goal of preparation is to create effective fundraising materials. A few notes on that topic:
 
@@ -20,6 +21,6 @@ The first important goal of preparation is to create effective fundraising mater
 
 * Developing good fundraising materials takes time. While some founders get lucky and nail things quickly, most need a number of iterations to find the best way to pitch their company. That’s because pitching VCs is different than pitching customers or partners or prospective hires or the media. Founders need time to learn what matters to investors and craft their story accordingly. 
 
-* The process is also often non-linear. It is quite common to make progress in version 5, only to regress in versions 6 and 7, and then bounce back in 8. For reference, for my startup’s series A deck, I developed 15 different versions until I found the right words. And version 13 was truly horrendous. Just stick with it until you have a good and compelling flow. You can start practicing in front of a mirror, progress to friends, and eventually get feedback from other entrepreneurs, which I cover in Network with Entrepreneurs.
+* The process is also often non-linear. It is quite common to make progress in version 5, only to regress in versions 6 and 7, and then bounce back in 8. For reference, for my startup’s series A deck, I developed 15 different versions until I found the right words. And version 13 was truly horrendous. Just stick with it until you have a good and compelling flow. You can start practicing in front of a mirror, progress to friends, and eventually get feedback from other entrepreneurs, which I cover in [Network with Entrepreneurs](/phase-i-preparation/network-with-entrepreneurs/why-network).
 
 You are going to need several different kinds of fundraising materials. I get into specifics in the following sections.

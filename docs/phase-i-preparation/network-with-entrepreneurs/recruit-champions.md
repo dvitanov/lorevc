@@ -1,6 +1,7 @@
 ---
-id: phase-i-preparation-networking-with-entrepreneurs-recruit-champions
-slug: /phase-i-preparation/networking-with-entrepreneurs/recruit-champions
+id: phase-i-preparation-network-with-entrepreneurs-recruit-champions
+slug: /phase-i-preparation/network-with-entrepreneurs/recruit-champions
+custom_edit_url: null
 
 sidebar_label: 'Recruit Champions'
 sidebar_position: 4
@@ -20,7 +21,7 @@ You keep iterating on your company story and touching base with the CEOs you had
 
 This is what good networking looks like. Before you know it, you have a strong network that can reach most if not all relevant VCs through multiple paths of varying strength. That’s where introductions, references, and backchanneling will come from. Some even want to jump the gun and make an intro, but you hold off saying you need just a bit more time until you are ready.
 
-In the same way that you are constantly reassessing the overall fit of prospective investors, you should be thinking about which entrepreneurs you are truly connecting well with. Those will become your champions. And hopefully they are well connected and have a great track record, which allows them to bat for you when it comes time to go out and fundraise. 
+In the same way that you are constantly reassessing the [overall fit](/phase-i-preparation/investor-list/essential-investor-qualifications) of prospective investors, you should be thinking about which entrepreneurs you are truly connecting well with. Those will become your champions. And hopefully they are well connected and have a great track record, which allows them to bat for you when it comes time to go out and fundraise. 
 
 A few of these champions will be what I call super-connectors. They will make 10+ strong intros, while most other people in your network might do one or two. In some sense, the whole point of networking is to recruit champions that become super-connectors. But it is impossible to know who those people are beforehand. You have to go out there, meet people, and see who you truly connect with and who is in a position and is willing to help. That’s how champions and super-connectors naturally emerge.
 

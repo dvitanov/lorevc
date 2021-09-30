@@ -1,6 +1,7 @@
 ---
-id: phase-i-preparation-networking-with-entrepreneurs-who-to-network-with
-slug: /phase-i-preparation/networking-with-entrepreneurs/who-to-network-with
+id: phase-i-preparation-network-with-entrepreneurs-who-to-network-with
+slug: /phase-i-preparation/network-with-entrepreneurs/who-to-network-with
+custom_edit_url: null
 
 sidebar_label: 'Who to Network With'
 sidebar_position: 2
@@ -16,7 +17,7 @@ So who should you network with to get great investor intros? Well, introductions
 
 ### Investors
 
-During the preparation phase, I advise to avoid networking directly with investors. That’s because every meeting with an investor is essentially a pitch, whether you realize it or not. And there is a place and a time for that - which is during the actual fundraise, as described in Phase II - Fundraising. Until then, it is best to focus your efforts on growing your network with people, who can provide high-quality introductions to investors rather than risk falling into the trap of passive fundraising by talking to investors directly.
+During the preparation phase, I advise to avoid networking directly with investors. That’s because every meeting with an investor is [essentially a pitch](/deciding-to-fundraise/why-you-need-a-strategy), whether you realize it or not. And there is a place and a time for that - which is during the actual fundraise, as described in Phase II - Fundraising. Until then, it is best to focus your efforts on growing your network with people, who can provide high-quality introductions to investors rather than risk falling into the trap of passive fundraising by talking to investors directly.
 
 Of course, investors can provide introductions to other investors. And they often offer that, so why not take them up on it? As a general rule of thumb, you should never ask other investors for an intro unless they are committed to your company already. The reason should be obvious: if your company is so interesting and exciting, why didn’t the investor making the intro invest themselves? That is why typically such intros are only relevant in Phase III - Closing, where we are building the syndicate once there is a signed term sheet. 
 

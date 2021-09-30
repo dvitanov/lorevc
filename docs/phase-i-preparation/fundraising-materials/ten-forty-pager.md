@@ -1,6 +1,7 @@
 ---
 id: phase-i-preparation-fundraising-materials-ten-forty-pager
 slug: /phase-i-preparation/fundraising-materials/ten-forty-pager
+custom_edit_url: null
 
 sidebar_label: '10+40 Pager'
 sidebar_position: 6
@@ -14,7 +15,7 @@ description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founde
 
 The 10+40-pager is simply the 10-pager with an appendix, which is designed to address investor objections. 
 
-The way to learn about such objections is by running your deck by as many knowledgeable and experienced people as possible, which I discuss in Network with Entrepreneurs. Once you do this 25-50-100 times, you will start noticing the same few objections that keep coming up. This should provoke two reactions from you. 
+The way to learn about such objections is by running your deck by as many knowledgeable and experienced people as possible, which I discuss in [Network with Entrepreneurs](/phase-i-preparation/network-with-entrepreneurs/why-network). Once you do this 25-50-100 times, you will start noticing the same few objections that keep coming up. This should provoke two reactions from you. 
 
 First, on the business side, consider such questions and determine if you need to act. It is worth noting that the fundamental job of a CEO is to exercise judgement about what matters and what does not matter. Just because others may think something matters does not automatically mean it matters. You need to examine the argument and make the final determination about its merit.
 

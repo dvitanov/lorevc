@@ -1,6 +1,7 @@
 ---
 id: phase-i-preparation-fundraising-materials-one-sentence
 slug: /phase-i-preparation/fundraising-materials/one-sentence
+custom_edit_url: null
 
 sidebar_label: '1 Sentence'
 sidebar_position: 2

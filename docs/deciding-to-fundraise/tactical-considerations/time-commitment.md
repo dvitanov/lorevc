@@ -1,6 +1,7 @@
 ---
-id: preface-time-commitment
-slug: /preface/time-commitment
+id: deciding-to-fundraise-tactical-considerations-time-commitment
+slug: /deciding-to-fundraise/tactical-considerations/time-commitment
+custom_edit_url: null
 
 sidebar_label: 'Time Commitment'
 sidebar_position: 3
@@ -12,7 +13,7 @@ description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founde
 
 # Time Commitment
 
-Early-stage fundraising is the sole responsibility of the founder and CEO of the company. It is also rather demanding, quickly turning into a full-time job for anywhere between 6 and 9 months. This is a long stretch of time during which the business is effectively handicapped because the leader is partially absent from day-to-day operations. And yet, not dedicating your full attention to fundraising is one of the easier ways to fail to secure a funding round. Make sure you don’t fall into that trap. I share a few tips on how to do that in Reducing Downsides. 
+Early-stage fundraising is the sole responsibility of the founder and CEO of the company. It is also rather demanding, quickly turning into a full-time job for anywhere between 6 and 9 months. This is a long stretch of time during which the business is effectively handicapped because the leader is partially absent from day-to-day operations. And yet, not dedicating your full attention to fundraising is one of the easier ways to fail to secure a funding round. Make sure you don’t fall into that trap. I share a few tips on how to do that in [Reducing Downsides](/phase-i-preparation/prepare-the-company/reducing-downsides). 
 
 Founders often ask whether it makes sense to share fundraising responsibilities with another co-founder or perhaps an experienced exec. In my opinion, this is not a good idea in early-stage fundraising for three reasons:
 

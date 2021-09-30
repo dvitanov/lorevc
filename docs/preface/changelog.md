@@ -1,6 +1,7 @@
 ---
 id: preface-changelog
 slug: /preface/changelog
+custom_edit_url: null
 
 sidebar_label: 'Changelog'
 sidebar_position: 6
@@ -12,4 +13,4 @@ description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founde
 
 # Changelog
 
-You can see Fundraising Lore revisions on its Github repository.
+You can see Fundraising Lore revisions on its [Github repository](https://github.com/dvitanov/lorevc/commits/master).
