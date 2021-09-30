@@ -98,7 +98,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],*/
-        copyright: `All content on <a href="https://lore.vc">lore.vc</a> is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.`,
+        copyright: `All content on <a href="https://lore.vc">lore.vc</a> is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
