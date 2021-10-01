@@ -108,12 +108,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
   plugins: [
     // ... Your other plugins.
+
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
-        hashed: true,
+        hashed: false,
+        indexBlog: false,
+        docsRouteBasePath: "/",
+        highlightSearchTermsOnTargetPage: true,
+        searchResultContextMaxLength: 75,
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
         // language: ["en", "zh"],
@@ -121,5 +126,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         // When applying `zh` in language, please install `nodejieba` in your project.
       },
     ],
-  ],
+    /*
+        [require.resolve('@cmfcmf/docusaurus-search-local'), {
+          docsRouteBasePath: '/',
+          indexBlog: false,
+    
+        }]
+        */
+  ]
 });
