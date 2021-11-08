@@ -30,7 +30,7 @@ If “essentials” is mostly about hard facts, many of which are available onli
 This is but a small excerpt from a much longer list of questions that every founder should ask themselves as they consider partnering with an investor. Such questions are important because:
 * You can’t fire an investor except in some truly odd situations.
 * They can fire you and will do so if they believe you are not capable of taking the company to the next level.
-* Most founder-investor partnerships last 7-10+ years, ie. longer than the typical marriage!
+* Most founder-investor partnerships last 7-10+ years, i.e. longer than the typical marriage!
 * Investors have significant influence, both on the company via special rights and board seats, as well as on founders’ psychology and mental being and thus performance. 
 
 That’s why being extra careful is worth every penny and then some. The more you know about an investor, the better your ability to qualify them as a good fit for your business plus the higher your chance of pitching them successfully.

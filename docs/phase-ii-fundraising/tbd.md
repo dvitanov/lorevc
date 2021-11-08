@@ -1,17 +1,17 @@
 ---
-id: onwards-tbd
-slug: /onwards/tbd
+id: phase-ii-fundraising-tbd
+slug: /phase-ii-fundraising/tbd
 custom_edit_url: null
 
-sidebar_label: 'Coming Soon'
+sidebar_label: 'TBD'
 sidebar_position: 1
 
-title: Coming Soon
+title: TBD
 
 description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
 
 ---
 
-# Coming Soon
+# TBD
 
-The rest is still to come! Stay tuned!
+Coming soon! Stay tuned!
