@@ -13,4 +13,4 @@ description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founde
 
 # License
 
-All content on [lore.vc](https://lore.vc) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+All content on [lore.vc](https://lore.vc) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
