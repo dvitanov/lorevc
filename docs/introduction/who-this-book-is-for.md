@@ -7,19 +7,27 @@ sidebar_label: 'Who This Book is For'
 sidebar_position: 2
 
 title: Who This Book is For
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
 # Who This Book is For
 
-The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors. Let me unpack this further:
+:::tip Summary
+
+**The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.**
+
+:::
+
+Let me unpack each key phrase from the summary further:
 
 ### Founder CEOs
 
 While other founders and execs can assist in some aspects, fundraising is fundamentally a CEO responsibility (more on this topic in [Time Commitment](/deciding-to-fundraise/tactical-considerations/time-commitment)). Thus, I focus on and assume that relevant readers are founding CEOs. 
 
-I have taken extra care to provide additional context whenever possible, hoping to help **first-time founders** in particular.
+I have taken extra care to provide additional context whenever possible, hoping to help **first-time founders** in particular. That’s because fundraising, like most things, is hardest the first time you do it. 
+
+More experienced founders, including those that have raised before, can still benefit from the Fundraising Lore. A common piece of feedback is that this guide helps shine light on **why** things in the fundraising world work the way they do.
 
 ### Early-stage
 

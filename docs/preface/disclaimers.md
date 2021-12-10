@@ -7,7 +7,6 @@ sidebar_label: 'Disclaimers'
 sidebar_position: 3
 
 title: Disclaimers
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
 
 ---
 

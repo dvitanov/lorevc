@@ -1,21 +1,21 @@
 ---
-id: introduction-welcome
+id: introduction
 slug: /
 custom_edit_url: null
 
-sidebar_label: 'Welcome'
+sidebar_label: 'Introduction'
 sidebar_position: 1
 
-title: Welcome
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+title: Introduction
+description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
-# Welcome
+# Introduction
 
 Hello and welcome to [lore.vc](https://lore.vc), also known as the Fundraising Lore. I wrote this book in the hopes of helping founding startup CEOs successfully raise early-stage VC financing from Silicon Valley investors. 
 
-What sets this guide apart from other similar materials is that it does not assume any prior knowledge about or experience with fundraising. The Fundraising Lore describes a structured process geared in particular towards first-time founders, who are starting their fundraising effort armed only with their grit and vision.
+What sets this guide apart from other similar materials is that it does not assume any prior knowledge about or experience with fundraising. The Fundraising Lore describes a structured process geared in particular towards first-time founders, who are starting a fundraising effort armed only with their grit and vision.
 
 Founders tend to be busy, so here is a quick visual summary of the Fundraising Lore framework:
 

@@ -7,7 +7,7 @@ sidebar_label: '1 Paragraph'
 sidebar_position: 3
 
 title: 1 Paragraph
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 

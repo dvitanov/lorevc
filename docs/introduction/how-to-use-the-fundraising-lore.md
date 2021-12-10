@@ -7,11 +7,18 @@ sidebar_label: 'How to Use the Fundraising Lore'
 sidebar_position: 4
 
 title: How to Use the Fundraising Lore
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
 # How to Use the Fundraising Lore
+
+:::tip Summary
+
+- **Leverage the Fundraising Lore to create your own strategy that feels right and authentic.**
+- **Fundraising is just an enabler - don’t get sucked in by it.**
+
+:::
 
 Here are a few guidelines for taking advantage of the Fundraising Lore:
 

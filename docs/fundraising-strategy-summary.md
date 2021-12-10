@@ -7,7 +7,7 @@ sidebar_label: 'Fundraising Strategy Summary'
 sidebar_position: 4
 
 title: Fundraising Strategy Summary
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 

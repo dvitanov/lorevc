@@ -7,7 +7,6 @@ sidebar_label: 'Acknowledgments'
 sidebar_position: 4
 
 title: Acknowledgments
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
 
 ---
 

@@ -7,7 +7,7 @@ sidebar_label: '10-Pager'
 sidebar_position: 5
 
 title: 10-Pager
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
+description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 

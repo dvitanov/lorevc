@@ -7,19 +7,10 @@ sidebar_label: 'How I am Qualified'
 sidebar_position: 1
 
 title: How I am Qualified
-description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors
 
 ---
 
 # How I am Qualified
-
-:::tip In This Section
-
-- Lesson 1
-- Lesson 2
-- Lesson 3
-
-:::
 
 Given the nature of the topic covered by the Fundraising Lore, it is only fair for readers to wonder about the author’s qualifications. So I thought I would briefly summarize my background. 
 
