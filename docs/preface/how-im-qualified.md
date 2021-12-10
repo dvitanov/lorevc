@@ -13,6 +13,14 @@ description: Welcome to lore.vc aka the Fundraising Lore, a guide to help founde
 
 # How I am Qualified
 
+:::tip In This Section
+
+- Lesson 1
+- Lesson 2
+- Lesson 3
+
+:::
+
 Given the nature of the topic covered by the Fundraising Lore, it is only fair for readers to wonder about the author’s qualifications. So I thought I would briefly summarize my background. 
 
 I am a programmer turned entrepreneur. Originally from Bulgaria, I have been living and working in Silicon Valley since 2007. I have built and sold 3 companies.

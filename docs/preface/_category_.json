@@ -1,4 +1,10 @@
 {
     "label": "Preface",
-    "position": 1
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "title": "Preface Sections",
+      "description":
+        "A few topics before you start reading."
+    }
   }
