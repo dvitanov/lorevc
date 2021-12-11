@@ -38,7 +38,7 @@ A similar dynamic happens when founders end up fundraising sequentially without 
 
 Often, when I engage with a startup, founders share that they recently had coffee or a video call with an investor in order to build a relationship. Unfortunately, what most fail to recognize is that every meeting between an investor and a founder is effectively a pitch. That’s because an investor’s actual job is to find companies to back. This in turn means that entrepreneurs “building relationships early” are pitching and thus fundraising sequentially whether they realize it or not. 
 
-To be clear: building relationships early is useful and important. But it needs to be done in a careful way and backed by a coherent fundraising strategy. Random coffee chats can lead to VC checks - I have seen it. But that’s not a coherent strategy. Indeed, one-off investor meetings can backfire as founders lose the ability to create momentum and shape the perception of their startups with the investor community.
+To be clear: building relationships early is useful and important. But it needs to be done in a careful way and backed by a coherent fundraising strategy, which includes parallel rather than sequential investor conversations. Random coffee chats can lead to VC checks - I have seen it. But that’s not a coherent strategy. Indeed, one-off investor meetings can backfire as founders lose the ability to create momentum and shape the perception of their startups with the investor community.
 
 ### Unrealistic Asks
 
