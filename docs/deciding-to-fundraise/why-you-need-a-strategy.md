@@ -13,21 +13,30 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Why You Need a Strategy
 
-Fundraising is obviously an extremely pivotal event for a young company. As a friend once remarked, for a song and a dance, you get a huge infusion of capital, which in turn can be used to put the company on a completely different trajectory. Few events carry as much weight.
+:::tip Summary
 
-And yet, as an advisor, one of my biggest surprises and frustrations is that in many cases founders are not thoughtful about how to approach fundraising nor how it fits into the broader company strategy. As a result, they run into a number of common pitfalls such as:
+**Common pitfalls of lacking a fundraising strategy include:**
+- **Raising out of desperation**
+- **Raising sequentially which kills momentum**
+- **Unrealistic asks from your network**
+- **Much harder time fundraising**
+- **Much harder time building the company**
+
+:::
+
+Lacking a thoughtful corporate strategy and how fundraising fits in it has a number of deeply negative consequences:
 
 ### Raising Out of Desperation
 
 One of my biggest gripes while advising startups is that in many cases a founder’s main reason for fundraising is that they are running out of money and time. That is, founders are backed into a corner and are frantically looking for a way out.
 
-This is not a good spot to be for at least two reasons. First, from a purely logistical point of view, fundraising takes time and requires momentum. Without enough time to set things up, it is basically impossible to get things going. Second, investors are very savvy and can quickly discern whether a startup is looking to just survive or has actually figured out something that makes for an exciting investment opportunity.
+This is not a good spot to be for at least two reasons. First, from a purely logistical point of view, fundraising takes time and requires momentum. Without enough time to set things up, it is basically impossible to get things going. Second, investors are very savvy and can quickly discern whether a startup is looking to just survive or has actually figured out something that makes for an exciting investment opportunity. You want to be part of the latter group to maximize the chances of a successful fundraise.
 
-### Passive Fundraising
+### Sequential Fundraising Kills Momentum
 
-A similar dynamic happens when founders end up passively fundraising without even realizing it. 
+A similar dynamic happens when founders end up fundraising sequentially without even realizing it. 
 
-Often, when I engage with a startup, founders share that they recently had coffee or a video call with an investor in order to build a relationship. Unfortunately, what most fail to recognize is that every meeting between an investor and a founder is effectively a pitch. That’s because an investor’s actual job is to find companies to back. This in turn means that entrepreneurs “building relationships early” are pitching and thus passively fundraising whether they realize it or not. 
+Often, when I engage with a startup, founders share that they recently had coffee or a video call with an investor in order to build a relationship. Unfortunately, what most fail to recognize is that every meeting between an investor and a founder is effectively a pitch. That’s because an investor’s actual job is to find companies to back. This in turn means that entrepreneurs “building relationships early” are pitching and thus fundraising sequentially whether they realize it or not. 
 
 To be clear: building relationships early is useful and important. But it needs to be done in a careful way and backed by a coherent fundraising strategy. Random coffee chats can lead to VC checks - I have seen it. But that’s not a coherent strategy. Indeed, one-off investor meetings can backfire as founders lose the ability to create momentum and shape the perception of their startups with the investor community.
 
@@ -35,7 +44,7 @@ To be clear: building relationships early is useful and important. But it needs 
 
 Another common pitfall is founders making unrealistic asks - usually, around introductions to investors. 
 
-One of the most valuable resources of a founder is the social capital that they accumulate throughout their career, especially with investors. A good introduction from a founder to an investor  is practically an endorsement. That’s why founders are naturally conservative when it comes to making such connections. They have to be - if founders made poor intros, that reflects badly on them and reduces their social capital in the long run.
+One of the most valuable resources of a founder is the social capital that they accumulate throughout their career, especially with investors. A good introduction from a founder to an investor  is practically an endorsement. That’s why founders are naturally conservative when it comes to making such connections. They have to be - if founders make poor intros, that will reflect badly on them and reduce their social capital in the long run.
 
 Founders, who don’t understand this dynamic, end up asking peers to make such endorsements before spending the necessary time to impress - and are then upset when their requests are met with radio silence. The irony is that such entrepreneurs are shooting themselves in the foot. If only they spent the necessary time setting things up, they would quickly see the dynamic reverse - founders always want to look smart and connected and one of the easier ways to do that is to make great introductions to investors. That doesn’t mean that every founder you know will help you out - but a lot more will if you put in the time and effort needed to earn the right to ask for an introduction and an endorsement to a key investor.
 
@@ -55,6 +64,6 @@ First, you need to buy yourself enough runway when fundraising. One of the worst
 
 Second, if you ever raise any private capital, you most likely will need to continue to raise capital for the rest of the company’s lifetime. That is because once you raise outside funding, you will naturally deploy it, typically by hiring a larger team, thus increasing your burn. An unfortunate characteristic of reality is that in most cases revenue catches up with expenses slower than ideal. Not to mention that if you find strong product-market fit, you should aggressively keep investing in growth, which can mean losing money for awhile. One way or another, that means burning cash. And that’s why you will need to raise again and again.
 
-That is not a negative per se - indeed, venture capital allows you to put the company on a different trajectory, which is a tremendous opportunity to build an outsized company in a short amount of time. However, it is a delicate game to play and not having a company or fundraising strategy is one of the easier ways to lose or end up in a tough spot.
+That is not a negative per se - indeed, venture capital allows you to put the company on a different trajectory, which is a tremendous opportunity to build an outsized venture in a short amount of time. However, it is a delicate game to play and not having a company or fundraising strategy is one of the easier ways to lose or end up in a tough spot.
 
 That’s why I advocate building a thoughtful company and fundraising strategy centered around milestones - including boosting the company’s trajectory with risk capital. The next chapter deals with how to think about creating such a strategy.

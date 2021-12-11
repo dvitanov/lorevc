@@ -33,6 +33,8 @@ More experienced founders, including those that have raised before, can still be
 
 The Fundraising Lore focuses on early-stage fundraising, which currently means seed and series A rounds. These terms refer to the first financing rounds that include institutional capital. That means venture capital rather than checks written by individuals investing their own money (such as angels). More on the VC model in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit).
 
+Note that there is a profound difference between early-stage (seed, series A) and late-stage (series B and beyond) venture capital. While later rounds are about scaling something that works already, early rounds are about investors and entrepreneurs taking a leap of faith together to discover what works. That’s hard and rare, especially in light of the fact that most startups fail.
+
 ### Silicon Valley Investors
 
 My fundraising experience is primarily in Silicon Valley and thus the Fundraising Lore will be most relevant for founders raising from investors based there. The Bay Area is a unique entrepreneurial ecosystem in many ways: the amount of startup capital available, the sheer number of experienced founders, investors, and executives, and, most importantly, in the way people think about startups. 

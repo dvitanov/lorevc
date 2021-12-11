@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # The Purpose of Fundraising
 
+:::tip Summary
+
+**The purpose of early-stage fundraising is to get a clean swing, which means raising enough capital for 18 + 6 + a buffer to achieve milestone(s) that can unlock the next funding round.**
+
+:::
+
 Fundraising is an option and a tool in the broader context of building a company. This naturally begs the question, how does one think about fundraising? What is its actual purpose within the broader corporate strategy?
 
 I believe that the purpose of early-stage fundraising is to get a **clean swing**. 

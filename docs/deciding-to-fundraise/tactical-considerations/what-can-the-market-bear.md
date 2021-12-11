@@ -7,8 +7,6 @@ sidebar_label: 'What Can the Market Bear?'
 sidebar_position: 1
 
 title: What Can the Market Bear?
-description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
-
 ---
 
 # What Can the Market Bear?
@@ -19,7 +17,7 @@ Consider two circles - one, what you want to create, and, two, what the market w
 
 Examples include trying to raise capital in scorched earth markets, i.e. verticals where a prominent company crashed and burned and poisoned the earth for those who follow. Even without a high profile failure, investors might be shy to make a bet in a space they see as having been played out or one that is so new it is hard to understand.
 
-Another aspect to this issue is the question of how much capital is required to build the business. As explained in [Why You Need a Strategy](/deciding-to-fundraise/why-you-need-a-strategy), you want to avoid constantly fundraising. This typically means securing enough capital to hit a big milestone and then raise another round in the next 18-24 months, as per [The Purpose of Fundraising](/deciding-to-fundraise/the-purpose-of-fundraising). 
+We can add a third circle to the venn diagram: how much capital is required to build the business. As explained in [Why You Need a Strategy](/deciding-to-fundraise/why-you-need-a-strategy), you want to avoid constantly fundraising. This typically means securing enough capital to hit a big milestone and then raise another round in the next 18-24 months, as per [The Purpose of Fundraising](/deciding-to-fundraise/the-purpose-of-fundraising). 
 
 This number needs to be triangulated with the current market conditions - i.e. what is the typical range for a seed / series A round as of the time you are out raising. Ultimately, you need to be able to show a convincing plan that raising something in that range will get you to the next milestone. 
 

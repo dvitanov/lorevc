@@ -7,7 +7,6 @@ sidebar_label: 'Time Commitment'
 sidebar_position: 3
 
 title: Time Commitment
-description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 

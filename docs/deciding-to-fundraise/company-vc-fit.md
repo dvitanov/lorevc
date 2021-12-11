@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Company / VC Fit
 
+:::tip Summary
+
+**Venture capitalists are in the business of funding extreme outliers: companies that can become unicorns (valued at $1B or more) in the span of 7-10 years.**
+
+:::
+
 Venture capital (VC) is a unique asset class, which has played a key role in helping to create some of the largest and most successful modern companies. Correspondingly, it receives a large amount of media attention. Therefore, it comes as a surprise to many to hear that VC is actually relatively small and certainly very niche when compared to other asset classes.
 
 Consider: in 2020, US VC dollars invested were $130B. That’s a lot of money and the pie keeps growing, but it’s still relatively small compared to other asset classes. For example, US private equity dry powder was $2.9T according to Statista. That’s T as in trillion.
@@ -25,12 +31,12 @@ VC firms are created and managed by General Partners (GPs). GPs contribute their
 
 LPs invest in venture capital firms in order to maximize their returns and diversify their portfolio. Therefore, venture capital is ultimately assessed in comparison to investing in other assets. A good rule of thumb is that for a VC fund to be competitive, they need to return 3x their fund size over the typical fund lifetime, which is 10 years. Returns are realized when a portfolio company gets acquired in an M&A or IPOs on a stock exchange.
 
-The GPs go out and hopefully raise a new fund from LPs every 2-3 years. For each fund:
+The GPs go out and hopefully raise a new fund from LPs every 2-3 years. For a typical fund:
 * 30% goes into new investments in the first 3-5 years of the fund. Early-stage VCs have a 10-20% ownership target when they invest.
 * 60% goes into reserves, which are used to maintain ownership stakes in fund winners by doing follow-on investments.
 * 10% goes towards fees. Note that GPs typically get paid with the so-called 2 / 20 model - 2% annual management fee on assets under management and 20% of profits made above a certain benchmark.
 
-Note that the above description is quite generalized - there are a lot of details and exceptions I have omitted since this guide is not focused on VC but on fundraising from VCs. For those curious, there are plenty of great resources a Google search away, which do a fantastic job of expanding on the details of how the VC model works.
+The above description is quite generalized - there are a lot of details and exceptions I have omitted since this guide is not focused on VC but on fundraising from VCs. For those curious, there are plenty of great resources a Google search away, which do a fantastic job of expanding on the details of how the VC model works.
 
 ### Early-stage VC is Very Power Law-Driven
 
@@ -52,4 +58,4 @@ Internet forums are full of stories of disappointed founders, who ran into all s
 
 As described above, VCs are forced due to their own business fundamentals to look for companies that can turn out to be extreme outliers. VCs are looking for diamonds in the rough, which they boost with unthinkable amounts of capital, in order to reach the coveted unicorn status.  It’s okay for most bets to not work out - as long as a few make it very big. If you are aligned with such a goal - despite all the risks and challenges - then by all means go partner with a VC.
 
-But if the VC model isn’t right for you or your startup, then don’t do it. You are simply setting yourself up for failure, frustrations, and disappointment. And there are alternatives, including bootstrapping with salary / savings / consulting revenue, crowdfunding, government grants, loans, and more. VC is definitely not the only, let alone the “right” way. As a founder, it is your responsibility to decide which path to pursue and how to navigate its pros and cons.
+But if the VC model isn’t right for you or your startup, then don’t do it. You are simply setting yourself up for failure, frustration, and disappointment. And there are alternatives, including bootstrapping with salary / savings / consulting revenue, crowdfunding, government grants, loans, and more. VC is definitely not the only, let alone the “right” way. As a founder, it is your responsibility to decide which path to pursue and how to navigate its pros and cons.

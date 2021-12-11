@@ -7,7 +7,6 @@ sidebar_label: 'Is the Business at a Fundable Point?'
 sidebar_position: 2
 
 title: Is the Business at a Fundable Point?
-description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
