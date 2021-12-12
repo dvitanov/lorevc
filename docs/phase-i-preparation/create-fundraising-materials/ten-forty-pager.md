@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-fundraising-materials-ten-forty-pager
-slug: /phase-i-preparation/fundraising-materials/ten-forty-pager
+id: phase-i-preparation-create-fundraising-materials-ten-forty-pager
+slug: /phase-i-preparation/create-fundraising-materials/ten-forty-pager
 custom_edit_url: null
 
 sidebar_label: '10+40 Pager'

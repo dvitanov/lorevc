@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-fundraising-materials-one-pager
-slug: /phase-i-preparation/fundraising-materials/one-pager
+id: phase-i-preparation-create-fundraising-materials-one-pager
+slug: /phase-i-preparation/create-fundraising-materials/one-pager
 custom_edit_url: null
 
 sidebar_label: '1-Pager'

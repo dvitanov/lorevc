@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-fundraising-materials-one-paragraph
-slug: /phase-i-preparation/fundraising-materials/one-paragraph
+id: phase-i-preparation-create-fundraising-materials-one-paragraph
+slug: /phase-i-preparation/create-fundraising-materials/one-paragraph
 custom_edit_url: null
 
 sidebar_label: '1 Paragraph'

@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-fundraising-materials-fundraising-materials-overview
-slug: /phase-i-preparation/fundraising-materials/fundraising-materials-overview
+id: phase-i-preparation-create-fundraising-materials
+slug: /phase-i-preparation/create-fundraising-materials/
 custom_edit_url: null
 
 sidebar_label: 'Fundraising Materials Overview'
