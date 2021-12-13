@@ -8,8 +8,6 @@ sidebar_position: 2
 
 title: Reducing Downsides
 
-description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
-
 ---
 
 # Reducing Downsides

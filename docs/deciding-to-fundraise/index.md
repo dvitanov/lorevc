@@ -1,6 +1,6 @@
 ---
 id: deciding-to-fundraise
-slug: /deciding-to-fundraise/
+slug: /deciding-to-fundraise
 custom_edit_url: null
 
 sidebar_label: 'Deciding to Fundraise'

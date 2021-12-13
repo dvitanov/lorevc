@@ -21,7 +21,7 @@ That means that connecting to most founders is not very hard. You can use mutual
 
 To be sure, there will be plenty of disappointments along the way, especially from founders that you are close with, who simply won’t respond or follow up. Try not to take it personally - everyone has a lot going on and their own battles to fight. I know it can be hard to see things that way, which is one reason I talk about this topic a bit more in Managing Your Psychology.
 
-During the preparation phase, there are two fundamental topics you want to discuss with founders: your fundraising materials (discussed in [Fundraising Materials](/phase-i-preparation/create-fundraising-materials/)) and your investor list (discussed in [Investor List](/phase-i-preparation/build-qualified-investor-list/)).
+During the preparation phase, there are two fundamental topics you want to discuss with founders: your fundraising materials (discussed in [Fundraising Materials](/phase-i-preparation/create-fundraising-materials)) and your investor list (discussed in [Investor List](/phase-i-preparation/build-qualified-investor-list)).
 
 ### Pitch Feedback
 

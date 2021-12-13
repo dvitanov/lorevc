@@ -1,4 +1,10 @@
 {
     "label": "Prepare the Company",
-    "position": 5
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "title": "Prepare the Company",
+      "description":
+        "There are two categories of things that you can do to prepare the company for a fundraise. First, you can set things up to get an advantage during the actual fundraise. Second, you can organize things to reduce the downsides of fundraising."
+    }
   }

@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-investor-list
-slug: /phase-i-preparation/investor-list/
+id: phase-i-preparation-build-qualified-investor-list
+slug: /phase-i-preparation/build-qualified-investor-list
 custom_edit_url: null
 
 sidebar_label: 'Investor List Overview'
