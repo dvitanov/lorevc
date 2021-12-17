@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-investor-list-advanced-investor-qualifications
-slug: /phase-i-preparation/investor-list/advanced-investor-qualifications
+id: phase-i-preparation-build-pre-qualified-investor-list-advanced-investor-qualifications
+slug: /phase-i-preparation/build-pre-qualified-investor-list/advanced-investor-qualifications
 custom_edit_url: null
 
 sidebar_label: 'Advanced Investor Qualifications'

@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-network-with-entrepreneurs-who-to-network-with
-slug: /phase-i-preparation/network-with-entrepreneurs/who-to-network-with
+id: phase-i-preparation-network-with-vc-backed-entrepreneurs-who-to-network-with
+slug: /phase-i-preparation/network-with-vc-backed-entrepreneurs/who-to-network-with
 custom_edit_url: null
 
 sidebar_label: 'Who to Network With'

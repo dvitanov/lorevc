@@ -18,9 +18,9 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 Preparation is the most important part of your fundraising strategy. Don’t underestimate it. The 5 key priorities at this stage are:
 1. Network with VC-backed entrepreneurs
-2. Create effective fundraising materials
-3. Build a qualified investor list
-4. Prepare the company for the fundraise
+2. Draft effective fundraising materials
+3. Build pre-qualified investor list
+4. Prepare the company
 5. Understand the fundraising market
 
 :::
@@ -31,13 +31,13 @@ Preparation is the first phase of a proper fundraising strategy. It is designed 
 
 While in this stage, I recommend spending about 3 months working on the following 5 key priorities:
 
-1. [Network with VC-backed entrepreneurs](network-with-entrepreneurs) - developing a network that is capable of and willing to help is certainly the most important goal while preparing. You are looking for champions to review your pitch and help build your investor list, and then, during [Phase II - Fundraising](/phase-ii-fundraising), make introductions, do backchanneling, and serve as references with investors.
+1. [Network with VC-backed entrepreneurs](network-with-vc-backed-entrepreneurs) - developing a network that is capable of and willing to help is certainly the most important goal while preparing. You are looking for champions to review your pitch and help build your investor list, and then, during [Phase II - Fundraising](/phase-ii-fundraising), make introductions, do backchanneling, and serve as references with investors.
 
-2. [Create effective fundraising materials](create-fundraising-materials) - which help with pitching your startup to professional investors in a compelling way.
+2. [Draft effective fundraising materials](draft-effective-fundraising-materials) - which help with pitching your startup to professional investors in a compelling way.
 
-3. [Build a qualified investor list](build-quailified-investor-list) - important to put together for the straightforward reason that you can’t pitch if you have nobody to pitch to.
+3. [Build pre-qualified investor list](build-quailified-build-pre-qualified-investor-list) - important to put together for the straightforward reason that you can’t pitch if you have nobody to pitch to.
 
-4. [Prepare the company for the fundraise](/category/prepare-the-company) - which helps reduce downsides due to your absence from day-to-day operations while fundraising, as well as get advantages that you can use while pitching investors.
+4. [Prepare the company](/category/prepare-the-company) - which helps reduce downsides due to your absence from day-to-day operations while fundraising, as well as get advantages that you can use while pitching investors.
 
 5. [Understand the fundraising market](understand-the-fundraising-market) - in order to set your fundraising goal based on current market dynamics.
 

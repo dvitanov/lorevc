@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-network-with-entrepreneurs-why-network
-slug: /phase-i-preparation/network-with-entrepreneurs/why-network
+id: phase-i-preparation-network-with-vc-backed-entrepreneurs
+slug: /phase-i-preparation/network-with-vc-backed-entrepreneurs
 custom_edit_url: null
 
 sidebar_label: 'Why Network?'

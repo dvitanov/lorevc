@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-network-with-entrepreneurs-how-to-network-with-entrepreneurs
-slug: /phase-i-preparation/network-with-entrepreneurs/how-to-network-with-entrepreneurs
+id: phase-i-preparation-network-with-vc-backed-entrepreneurs-how-to-network-with-vc-backed-entrepreneurs
+slug: /phase-i-preparation/network-with-vc-backed-entrepreneurs/how-to-network-with-vc-backed-entrepreneurs
 custom_edit_url: null
 
 sidebar_label: 'How to Network with Entrepreneurs'
@@ -21,7 +21,7 @@ That means that connecting to most founders is not very hard. You can use mutual
 
 To be sure, there will be plenty of disappointments along the way, especially from founders that you are close with, who simply won’t respond or follow up. Try not to take it personally - everyone has a lot going on and their own battles to fight. I know it can be hard to see things that way, which is one reason I talk about this topic a bit more in Managing Your Psychology.
 
-During the preparation phase, there are two fundamental topics you want to discuss with founders: your fundraising materials (discussed in [Fundraising Materials](/phase-i-preparation/create-fundraising-materials)) and your investor list (discussed in [Investor List](/phase-i-preparation/build-qualified-investor-list)).
+During the preparation phase, there are two fundamental topics you want to discuss with founders: your fundraising materials (discussed in [Fundraising Materials](/phase-i-preparation/draft-effective-fundraising-materials)) and your investor list (discussed in [Investor List](/phase-i-preparation/build-qualified-build-pre-qualified-investor-list)).
 
 ### Pitch Feedback
 
@@ -41,8 +41,8 @@ In any case, I would try to do two things very purposefully:
 
 If the conversation has been productive, the next topic to bring up is about investors, perhaps in a second or third meeting, after demonstrating how your pitch has evolved based on prior feedback.
 
-Before the meeting, make sure to research which investors have supported the entrepreneur along their journey and fill in some of the [“essential”](/phase-i-preparation/investor-list/essential-investor-qualifications) information in your investor list. I suggest looking not only at CrunchBase but also on LinkedIn to see which investors the founder is connected to. Definitely don’t rely on open-ended questions such as “who do you know” - because people are really quite forgetful. The more time you can save entrepreneurs by doing research beforehand, the more helpful they will tend to be.
+Before the meeting, make sure to research which investors have supported the entrepreneur along their journey and fill in some of the [“essential”](/phase-i-preparation/build-pre-qualified-investor-list/essential-investor-qualifications) information in your investor list. I suggest looking not only at CrunchBase but also on LinkedIn to see which investors the founder is connected to. Definitely don’t rely on open-ended questions such as “who do you know” - because people are really quite forgetful. The more time you can save entrepreneurs by doing research beforehand, the more helpful they will tend to be.
 
-At the meeting itself, what you are looking for is the [“advanced”](/phase-i-preparation/investor-list/advanced-investor-qualifications) information - who likes what and how and all the other knowledge that is impossible to get online. Go through your investor list together and take notes as appropriate. Try to get a sense for whether this entrepreneur would be willing to do a strong intro for you in the future, or perhaps serve as a reference or a backchannel. And remember: strong introductions are more akin to endorsements. That’s the level of support you are looking for.
+At the meeting itself, what you are looking for is the [“advanced”](/phase-i-preparation/build-pre-qualified-investor-list/advanced-investor-qualifications) information - who likes what and how and all the other knowledge that is impossible to get online. Go through your investor list together and take notes as appropriate. Try to get a sense for whether this entrepreneur would be willing to do a strong intro for you in the future, or perhaps serve as a reference or a backchannel. And remember: strong introductions are more akin to endorsements. That’s the level of support you are looking for.
 
 If the entrepreneur seems willing to offer a connection to an investor - or outright suggests one - make sure to control the timing of that intro. There is nothing worse than getting introduced too early, before you are fully prepared and ready to develop momentum, which is the key to successful fundraising. Just say thanks and that you will take them up on their offer in X days / weeks when you have your ducks in a row.

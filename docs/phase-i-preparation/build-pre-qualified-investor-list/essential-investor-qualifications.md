@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-investor-list-essential-investor-qualifications
-slug: /phase-i-preparation/investor-list/essential-investor-qualifications
+id: phase-i-preparation-build-pre-qualified-investor-list-essential-investor-qualifications
+slug: /phase-i-preparation/build-pre-qualified-investor-list/essential-investor-qualifications
 custom_edit_url: null
 
 sidebar_label: 'Essential Investor Qualifications'
@@ -21,7 +21,7 @@ The nice thing about essentials is that they are simple to find out. Visualize a
 
 * **Relevant partner(s)** - this one often gets overlooked. You can’t pitch “Sequoia” - that’s a firm. Instead, you will be pitching a specific partner within the firm. Make sure to find out who is most relevant for your company based on their investment portfolio, media interviews, social media, bio, and so forth. 
 
-* **How you are connected** - this is one of the most important pieces - yet the element that founders most underinvest in. The key thing is to make sure you don’t have a single point of failure. You want multiple strong connections to a partner so that you have people you can rely on for introductions, backchanneling, and references. I discuss how to grow your network in [Who to Network With](/phase-i-preparation/network-with-entrepreneurs/who-to-network-with) and expand on how to use it in Phase II - Fundraising.
+* **How you are connected** - this is one of the most important pieces - yet the element that founders most underinvest in. The key thing is to make sure you don’t have a single point of failure. You want multiple strong connections to a partner so that you have people you can rely on for introductions, backchanneling, and references. I discuss how to grow your network in [Who to Network With](/phase-i-preparation/network-with-vc-backed-entrepreneurs/who-to-network-with) and expand on how to use it in Phase II - Fundraising.
 
 * **Preferred stage and check size** - generally speaking, founders should target funds that are specifically focused on the current stage that the startup is in - i.e. seed funds if raising a seed round and series A funds if raising an A round. 
 
@@ -53,4 +53,4 @@ The nice thing about essentials is that they are simple to find out. Visualize a
 
 	Note that when I talk about “overall fit“ I don’t mean “investor quality.” These are two distinct concepts. The former is about how likely it is to find an investor, who believes in what you do, meshes well with you personally, and is a good fit for the company. By contrast, firm / investor quality has to do more with the general perception about how good a VC is - which is a mixture of PR and actual results. If you want, you can absolutely add this as a dimension to your investor list. Personally, I have found that finding one true believer of any perceived quality is worth ten “world class” investors, who are disengaged or even destructive (yes, that happens - more often than you think - more on that in [Post-Closing](/phase-iii-closing/post-closing)). Ideally, you can find someone who is a great fit and is perceived as a high-quality investor. But often the world is imperfect and having a mental model about what matters to you can be tremendously helpful.
 
-	Most importantly: overall fit is a dimension you need to continuously reassess. It’s fine for your first take to be a semi-educated guess as mentioned above. But as you learn more - for example, by talking with entrepreneurs, executives, and investors - you should recalibrate. I talk about that process in [How to Network with Entrepreneurs](/phase-i-preparation/network-with-entrepreneurs/how-to-network-with-entrepreneurs).
+	Most importantly: overall fit is a dimension you need to continuously reassess. It’s fine for your first take to be a semi-educated guess as mentioned above. But as you learn more - for example, by talking with entrepreneurs, executives, and investors - you should recalibrate. I talk about that process in [How to Network with Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs/how-to-network-with-vc-backed-entrepreneurs).

@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-create-fundraising-materials-ten-pager
-slug: /phase-i-preparation/create-fundraising-materials/ten-pager
+id: phase-i-preparation-draft-effective-fundraising-materials-ten-pager
+slug: /phase-i-preparation/draft-effective-fundraising-materials/ten-pager
 custom_edit_url: null
 
 sidebar_label: '10-Pager'

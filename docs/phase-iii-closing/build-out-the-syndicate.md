@@ -22,7 +22,7 @@ If this is not your first round of financing, then your previous investors will 
 
 On the flip side, as the rounds and corresponding capital requirements get larger and larger, smaller investors such as angels and seed VCs may get tapped out and be unable to participate. And even if they do participate, their checks might end up too small to be a meaningful contributor to filling out your current round.
 
-There is a common temptation for founders to assume that existing investors will always invest again. I caution against such an assumption, even for pro rata rights holders. As discussed in [Who to Network With](/phase-i-preparation/network-with-entrepreneurs/who-to-network-with), investor circumstances change often, sometimes rather significantly - examples include partners changing focus areas, moving to another firm, or retiring. 
+There is a common temptation for founders to assume that existing investors will always invest again. I caution against such an assumption, even for pro rata rights holders. As discussed in [Who to Network With](/phase-i-preparation/network-with-vc-backed-entrepreneurs/who-to-network-with), investor circumstances change often, sometimes rather significantly - examples include partners changing focus areas, moving to another firm, or retiring. 
 
 Instead of assuming, check. I recommend having a conversation with existing investors early in the process and getting a sense of where they stand, as discussed in Phase II - Fundraising.
 
@@ -36,7 +36,7 @@ In my experience, there are 3 types of investors, who say that:
 
 - Group 2: for whatever reason, the investor doesn’t have the necessary conviction to lead, but would actually consider investing, usually a smaller amount than perhaps is typical compared to when leading a deal. This group can also be a good way to fill out a round. 
 
-    Note: If the investor is a larger fund, you can think of them as buying an option on your startup. This helps with the current round, but carries signaling risk as explained in [Essential Investor Qualifications](/phase-i-preparation/investor-list/essential-investor-qualifications). Make sure to carefully weigh the pros and cons of taking their money!
+    Note: If the investor is a larger fund, you can think of them as buying an option on your startup. This helps with the current round, but carries signaling risk as explained in [Essential Investor Qualifications](/phase-i-preparation/build-pre-qualified-investor-list/essential-investor-qualifications). Make sure to carefully weigh the pros and cons of taking their money!
 
 - Group 3: the investor wants to politely say no. Obviously, this bucket is not relevant for filling out a round. 
 

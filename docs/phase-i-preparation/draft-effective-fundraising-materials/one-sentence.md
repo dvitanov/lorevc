@@ -1,6 +1,6 @@
 ---
-id: phase-i-preparation-create-fundraising-materials-one-sentence
-slug: /phase-i-preparation/create-fundraising-materials/one-sentence
+id: phase-i-preparation-draft-effective-fundraising-materials-one-sentence
+slug: /phase-i-preparation/draft-effective-fundraising-materials/one-sentence
 custom_edit_url: null
 
 sidebar_label: '1 Sentence'
