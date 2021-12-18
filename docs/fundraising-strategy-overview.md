@@ -21,7 +21,7 @@ There are three distinct phases:
     1. [Network with VC-backed entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs)
     2. [Draft effective fundraising materials](/phase-i-preparation/draft-effective-fundraising-materials)
     3. [Build pre-qualified investor list](/phase-i-preparation/build-pre-qualified-investor-list)
-    4. [Prepare the compan](/category/prepare-the-company)
+    4. [Prepare the compan](/phase-i-preparation/prepare-the-company)
     5. [Understand the fundraising market](/phase-i-preparation/understand-the-fundraising-market)
 
 * **[Phase II - Fundraising](/phase-ii-fundraising)** - this is where you start talking with investors with the goal of emerging with a signed term sheet, which is a brief document that outlines the agreed financing terms. This is the actual hard part of fundraising. The most important overall objective is to hit the ground running and spin up high momentum, which is key to closing a round. It is likely you will have a lot of conversations that don’t lead to a term sheet. Tune those out and keep going. Finding a believer is a numbers game. I recommend spending about 3 months on this phase and splitting it into 3 distinct parts:

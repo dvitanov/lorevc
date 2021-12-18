@@ -3,15 +3,15 @@ id: phase-i-preparation-network-with-vc-backed-entrepreneurs
 slug: /phase-i-preparation/network-with-vc-backed-entrepreneurs
 custom_edit_url: null
 
-sidebar_label: 'Why Network?'
+sidebar_label: 'Network with VC-backed Entrepreneurs'
 sidebar_position: 1
 
-title: Why Network?
+title: Network with VC-backed Entrepreneurs
 description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
-# Why Network?
+# Network with VC-backed Entrepreneurs
 
 The most important part of preparing for a fundraise is networking with entrepreneurs. It allows you to simultaneously practice your pitch, improve your investor list, and grow and prime your network so that you can hit the ground running when you start the actual fundraise. 
 
