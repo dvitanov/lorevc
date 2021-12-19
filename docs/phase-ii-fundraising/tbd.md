@@ -1,10 +1,10 @@
 ---
-id: phase-ii-fundraising-tbd
-slug: /phase-ii-fundraising/tbd
+id: phase-ii-fundraising-a
+slug: /phase-ii-fundraising/a
 custom_edit_url: null
 
 sidebar_label: 'TBD'
-sidebar_position: 1
+sidebar_position: 5
 
 title: TBD
 
@@ -13,5 +13,11 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 ---
 
 # TBD
+
+:::tip Summary
+
+****
+
+:::
 
 Coming soon! Stay tuned!
