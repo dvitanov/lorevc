@@ -15,7 +15,7 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 :::tip Summary
 
-****
+**There are two approaches to building an investor list: bottoms-up (starting with people you know) and top-down (identifying investors you are not yet networked with). I suggest doing both.**
 
 :::
 
@@ -23,7 +23,7 @@ There are fundamentally two ways to build an investor list and I highly recommen
 
 ### Bottom-up
 
-Bottom-up simply means starting with people who you already know. Those might be investors that you are already close with, or the investors your close founder friends are close with. 
+**Bottom-up simply means starting with people who you already know.** Those might be investors that you are already close with, or the investors your close founder friends are close with. 
 
 Beware: fundraising is the kind of process that quickly reveals the difference between people, who say they will support you and those that actually do. More often than not, the answer can be both delightful (because you realize you have support where you expected none) and depressing (because you realize you didn’t have support where you thought you would have it). I talk about dealing with the emotional fallout from such discoveries in Managing Your Psychology.
 
@@ -31,4 +31,4 @@ The above sidebar notwithstanding, by definition, you are well-networked with su
 
 ### Top-down
 
-Top-down means identifying investors that you may not (yet) be networked with. Naturally, the idea is to identify investors who would be a great fit for the kind of company you are working on. The price you pay is having to work harder to get access to these investors. I discuss how to do that in [How to Network with Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs/how-to-network-with-vc-backed-entrepreneurs).
+**Top-down means identifying investors that you may not (yet) be networked with.** Naturally, the idea is to identify investors who would be a great fit for the kind of company you are working on. The price you pay is having to work harder to get access to these investors. I discuss how to do that in [How to Network with Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs/how-to-network-with-vc-backed-entrepreneurs).

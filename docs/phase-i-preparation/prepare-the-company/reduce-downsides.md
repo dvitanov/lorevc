@@ -1,24 +1,24 @@
 ---
-id: phase-i-preparation-prepare-the-company-reducing-downsides
-slug: /phase-i-preparation/prepare-the-company/reducing-downsides
+id: phase-i-preparation-prepare-the-company-reduce-downsides
+slug: /phase-i-preparation/prepare-the-company/reduce-downsides
 custom_edit_url: null
 
-sidebar_label: 'Reducing Downsides'
+sidebar_label: 'Reduce Downsides'
 sidebar_position: 2
 
-title: Reducing Downsides
+title: Reduce Downsides
 
 ---
 
-# Reducing Downsides
+# Reduce Downsides
 
 :::tip Summary
 
-****
+**Reduce downsides from being absent in day-to-day operations while fundraising by planning your company’s roadmap and offloading responsibilities to your cofounders and team.**
 
 :::
 
-Just as it makes sense to work in advance to secure advantages during the fundraise, it is also prudent to plan ahead to avoid downsides. That primarily has to do with managing the company in ways which minimize disruptions to the fundraising process as well as day to day operations especially in light of the fact that the founder and CEO will be busy talking to investors for a prolonged period of time.
+Just as it makes sense to work in advance to secure advantages during the fundraise, it is also prudent to plan ahead to avoid downsides. That primarily has to do with managing the company in ways which minimize disruptions to the fundraising process as well as day-to-day operations especially in light of the fact that the founder and CEO will be busy talking to investors for a prolonged period of time.
 
 ### Roadmap Planning
 
@@ -28,7 +28,7 @@ Beware of fundraising around releasing a new feature or product or expanding int
 
 Thus, I recommend being very conservative with such tactics. Unless something is extremely certain and clearly beneficial, I recommend delaying it for after the fundraise or at the very least not making it part of your fundraising efforts and story. Indeed, it is far better to have a narrative along the lines of “what we are doing is working, we are looking for funding because we see great opportunities to expand in X and Y ways and grow the business 10x.” Simple, straightforward, and powerful - just the way investors like it.
 
-### Time Management
+### Offload Responsibilities to Others
 
 One of the hardest aspects of fundraising is that it is a [full-time job for the CEO](/deciding-to-fundraise/tactical-considerations/time-commitment) of the company. This is a problem because running the company itself is also a full-time job. Until cloning becomes possible, this creates a conundrum - namely, how to split your time as the CEO?
 

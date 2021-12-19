@@ -15,7 +15,7 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 :::tip Summary
 
-****
+**Advanced investor pre-qualifications is about uncovering tacit knowledge about investor preferences. You do that by networking.**
 
 :::
 
@@ -43,4 +43,4 @@ That’s why being extra careful is worth every penny and then some. The more yo
 
 The bad news is that almost none of the data listed above is Google-able. People simply don’t talk about this kind of stuff online and even if they do, they self-censor themselves. Not to mention that the half-life of such data is rather short - something that an investor believed strongly last year might no longer be interesting a year later, be it because they changed their mind or because the market changed or because they already placed a bet and are not looking for more exposure.
 
-The good news is that this information exists in the heads of people, who are in the startup game - obviously investors but also founders and executives who work with investors on a daily basis. And, since the world and especially Silicon Valley is a pretty small place, getting to uncover such information is not as hard as it might seem. It “simply“ requires getting out there, meeting people, and learning from them. Part of that will come during fundraising, which I discuss in Phase II - Fundraising. But you can do a lot to prepare beforehand, which I talk about in the next section, Network with Entrepreneurs.
+The good news is that this information exists in the heads of people, who are in the startup game - obviously investors but also founders and executives who work with investors on a daily basis. And, since the world and especially Silicon Valley is a pretty small place, getting to uncover such information is not as hard as it might seem. It “simply“ requires getting out there, meeting people, and learning from them. Part of that will come during fundraising, which I discuss in [Phase II - Fundraising](/phase-ii-fundraising). But you can do a lot to prepare beforehand, which I talk about in Network with [VC-backed Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs).

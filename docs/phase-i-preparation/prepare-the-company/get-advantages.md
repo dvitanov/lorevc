@@ -1,24 +1,24 @@
 ---
-id: phase-i-preparation-prepare-the-company-getting-advantages
-slug: /phase-i-preparation/prepare-the-company/getting-advantages
+id: phase-i-preparation-prepare-the-company-get-advantages
+slug: /phase-i-preparation/prepare-the-company/get-advantages
 custom_edit_url: null
 
-sidebar_label: 'Getting Advantages'
+sidebar_label: 'Get Advantages'
 sidebar_position: 1
 
-title: Getting Advantages
+title: Get Advantages
 
 ---
 
-# Getting Advantages
+# Get Advantages
 
 :::tip Summary
 
-****
+**Typical ways to get advantages that can help during your fundraise including hoarding good news, building an advisory board, doing PR campaigns, and leveraging events.**
 
 :::
 
-As discussed in Phase II - Fundraising, the overall key objective during the early stages of fundraising is to create momentum, which in turn allows deeper investor conversations, which hopefully result in a term sheet. Therefore, you can create advantages by thinking about what kinds of things would give you momentum during a fundraise. 
+As discussed in [Phase II - Fundraising](/phase-ii-fundraising), the overall key objective during the early stages of fundraising is to create momentum, which in turn allows deeper investor conversations, which hopefully result in a term sheet. Therefore, you can create advantages by thinking about what kinds of things would give you momentum during a fundraise. 
 
 ### Hoard Good News 
 
