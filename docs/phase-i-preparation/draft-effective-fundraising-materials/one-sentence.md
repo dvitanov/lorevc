@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # 1 Sentence
 
+:::tip Summary
+
+****
+
+:::
+
 The ”1 sentence” is a quick summary of the company. It’s the answer to “what does your company do?” - a question, which every founder gets every time they meet someone new (and often when they catch up with an acquaintance that can’t quite remember).
 
 I recommend keeping it to 6 words or less and choosing descriptors that will help a knowledgable investor immediately understand why your company is interesting. Think about the broader themes and market waves that your startup leverages or interacts with and try to include them in your company summary.

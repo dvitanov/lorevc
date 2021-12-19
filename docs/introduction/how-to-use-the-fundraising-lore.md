@@ -22,13 +22,13 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 Here are a few guidelines for taking advantage of the Fundraising Lore:
 
-### Make it your own
+### Make It Your Own
 
 The Fundraising Lore aims to outline a coherent fundraising strategy assuming no special advantages other than grit. But it is not the “one true way” to raise money. Indeed, as I explain in [Disclaimers](/preface/disclaimers), there is no such thing. 
 
 So don’t blindly follow advice, regardless of who is giving it or where it’s coming from, including the Fundraising Lore. Do what feels right and authentic. Create your own flavor by using whatever makes sense to you.
 
-### Don’t get sucked in by the fundraising game
+### Don’t Get Sucked in by the Fundraising Game
 
 With a nod towards the fantastic TV series “The Wire,” fundraising is often described as a “game.” Not in the “video game” way, but rather in the sense that it involves an ecosystem with all sorts of mostly unwritten rules about what matters, how to do things, what different actors care about, and so forth.
 

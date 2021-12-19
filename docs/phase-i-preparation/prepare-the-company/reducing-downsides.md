@@ -12,6 +12,12 @@ title: Reducing Downsides
 
 # Reducing Downsides
 
+:::tip Summary
+
+****
+
+:::
+
 Just as it makes sense to work in advance to secure advantages during the fundraise, it is also prudent to plan ahead to avoid downsides. That primarily has to do with managing the company in ways which minimize disruptions to the fundraising process as well as day to day operations especially in light of the fact that the founder and CEO will be busy talking to investors for a prolonged period of time.
 
 ### Roadmap Planning

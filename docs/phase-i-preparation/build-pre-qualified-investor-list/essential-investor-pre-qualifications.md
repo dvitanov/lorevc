@@ -1,17 +1,23 @@
 ---
-id: phase-i-preparation-build-pre-qualified-investor-list-essential-investor-qualifications
-slug: /phase-i-preparation/build-pre-qualified-investor-list/essential-investor-qualifications
+id: phase-i-preparation-build-pre-qualified-investor-list-essential-investor-pre-qualifications
+slug: /phase-i-preparation/build-pre-qualified-investor-list/essential-investor-pre-qualifications
 custom_edit_url: null
 
-sidebar_label: 'Essential Investor Qualifications'
+sidebar_label: 'Essential Investor Pre-Qualifications'
 sidebar_position: 3
 
-title: Essential Investor Qualifications
+title: Essential Investor Pre-Qualifications
 description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
-# Essential Investor Qualifications
+# Essential Investor Pre-Qualifications
+
+:::tip Summary
+
+****
+
+:::
 
 An investor list wouldn’t be much help if it was not qualified. Let’s start with some essentials. 
 

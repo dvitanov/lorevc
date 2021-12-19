@@ -1,17 +1,23 @@
 ---
-id: phase-i-preparation-build-pre-qualified-investor-list-advanced-investor-qualifications
-slug: /phase-i-preparation/build-pre-qualified-investor-list/advanced-investor-qualifications
+id: phase-i-preparation-build-pre-qualified-investor-list-advanced-investor-pre-qualifications
+slug: /phase-i-preparation/build-pre-qualified-investor-list/advanced-investor-pre-qualifications
 custom_edit_url: null
 
-sidebar_label: 'Advanced Investor Qualifications'
+sidebar_label: 'Advanced Investor Pre-Qualifications'
 sidebar_position: 4
 
-title: Advanced Investor Qualifications
+title: Advanced Investor Pre-Qualifications
 description: The Fundraising Lore is a guide to help founder CEOs successfully raise early-stage VC financing from Silicon Valley investors.
 
 ---
 
-# Advanced Investor Qualifications
+# Advanced Investor Pre-Qualifications
+
+:::tip Summary
+
+****
+
+:::
 
 If “essentials” is mostly about hard facts, many of which are available online, then “advanced” is about finding out “softer” data. Such information can often be extremely important. Examples include:
 

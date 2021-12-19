@@ -36,7 +36,7 @@ In my experience, there are 3 types of investors, who say that:
 
 - Group 2: for whatever reason, the investor doesn’t have the necessary conviction to lead, but would actually consider investing, usually a smaller amount than perhaps is typical compared to when leading a deal. This group can also be a good way to fill out a round. 
 
-    Note: If the investor is a larger fund, you can think of them as buying an option on your startup. This helps with the current round, but carries signaling risk as explained in [Essential Investor Qualifications](/phase-i-preparation/build-pre-qualified-investor-list/essential-investor-qualifications). Make sure to carefully weigh the pros and cons of taking their money!
+    Note: If the investor is a larger fund, you can think of them as buying an option on your startup. This helps with the current round, but carries signaling risk as explained in [Essential Investor Qualifications](/phase-i-preparation/build-pre-qualified-investor-list/essential-investor-pre-qualifications). Make sure to carefully weigh the pros and cons of taking their money!
 
 - Group 3: the investor wants to politely say no. Obviously, this bucket is not relevant for filling out a round. 
 

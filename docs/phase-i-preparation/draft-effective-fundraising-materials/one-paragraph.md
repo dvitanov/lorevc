@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # 1 Paragraph
 
+:::tip Summary
+
+****
+
+:::
+
 The 1 paragraph is a 3 sentence summary of the company. It is typically used in email introductions, so it needs to highlight the most impressive and noteworthy characteristics of your startup. 
 
 For the 1 paragraph, I recommend using a simple structure like this:

@@ -16,12 +16,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 :::tip Summary
 
-Preparation is the most important part of your fundraising strategy. Don’t underestimate it. The 5 key priorities at this stage are:
-1. Network with VC-backed entrepreneurs
-2. Draft effective fundraising materials
-3. Build pre-qualified investor list
-4. Prepare the company
-5. Understand the fundraising market
+**Preparation is the most important part of your fundraising strategy. Don’t underestimate it. The 5 key priorities at this stage are:**
+1. **Network with VC-backed entrepreneurs**
+2. **Draft effective fundraising materials**
+3. **Build pre-qualified investor list**
+4. **Prepare the company**
+5. **Understand the fundraising market**
 
 :::
 

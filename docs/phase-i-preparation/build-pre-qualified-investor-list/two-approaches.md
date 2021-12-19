@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Two Approaches
 
+:::tip Summary
+
+****
+
+:::
+
 There are fundamentally two ways to build an investor list and I highly recommend doing both at the same time: 
 
 ### Bottom-up

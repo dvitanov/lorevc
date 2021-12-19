@@ -21,7 +21,7 @@ Founders tend to be busy, so here is a quick visual summary of the Fundraising L
 
 ![The Fundraising Lore Visual Outline](/img/fundraising-lore-visual-summary.svg)
 
-I suggest you begin by learning more about [who this guide is for](/introduction/who-this-book-is-for), [how it can help](/introduction/how-the-fundraising-lore-can-help) and [how to use it](/introduction/how-to-use-the-fundraising-lore). 
+I suggest you begin by learning more about [who this guide is for](/introduction/who-this-book-is-for), [how it can help](/introduction/how-the-fundraising-lore-can-help), and [how to use it](/introduction/how-to-use-the-fundraising-lore). 
 
 For founders still wondering whether to pursue venture capital financing or in the early stages of figuring out their fundraising strategy, [Deciding to Fundraise](/deciding-to-fundraise/why-you-need-a-strategy) offers some thoughts with [The Purpose of Fundraising](/deciding-to-fundraise/the-purpose-of-fundraising) being particularly important. 
 

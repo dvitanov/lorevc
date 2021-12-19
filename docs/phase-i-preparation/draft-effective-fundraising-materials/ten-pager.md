@@ -13,6 +13,17 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # 10-Pager
 
+:::tip Summary
+
+****
+
+:::
+
+<object data="/backups/Pendo-Series-B-Pitch-Presentation_watermark.pdf" type="application/pdf" width="870px" height="700px">
+    <embed src="/backups/Pendo-Series-B-Pitch-Presentation_watermark.pdf">
+    </embed>
+</object>
+
 The 10-pager is the main fundraising deck aka the pitch. As mentioned previously and further discussed in section Phase II - Fundraising, you may or may not use the actual slides when meeting investors. Regardless, investing in a great 10-pager is absolutely essential to raising capital, because it clarifies your thinking and story. 
 
 Here are a few guidelines about creating an effective pitch: 

@@ -14,6 +14,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Understand the Fundraising Market
 
+:::tip Summary
+
+****
+
+:::
+
 Early stage investing turns out to be a very dynamic market, which has undergone many big changes in the last decade - from the birth of super-angels to seed funds and micro VCs to incubators and so much more. Therefore, it is important for entrepreneurs to put some effort into understanding the current state of affairs. This has several components. 
 
 ### Traction

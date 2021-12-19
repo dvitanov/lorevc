@@ -12,6 +12,12 @@ title: Getting Advantages
 
 # Getting Advantages
 
+:::tip Summary
+
+****
+
+:::
+
 As discussed in Phase II - Fundraising, the overall key objective during the early stages of fundraising is to create momentum, which in turn allows deeper investor conversations, which hopefully result in a term sheet. Therefore, you can create advantages by thinking about what kinds of things would give you momentum during a fundraise. 
 
 ### Hoard Good News 

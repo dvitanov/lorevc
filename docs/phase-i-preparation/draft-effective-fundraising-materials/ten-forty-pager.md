@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # 10+40 Pager
 
+:::tip Summary
+
+****
+
+:::
+
 The 10+40-pager is simply the 10-pager with an appendix, which is designed to address investor objections. 
 
 The way to learn about such objections is by running your deck by as many knowledgeable and experienced people as possible, which I discuss in [Network with Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs/why-network). Once you do this 25-50-100 times, you will start noticing the same few objections that keep coming up. This should provoke two reactions from you. 

@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # 1-Pager
 
+:::tip Summary
+
+****
+
+:::
+
 As the name suggests, the 1-pager is a summary of your company that fits on a single page. 
 
 There are 2 fundamental approaches to this document:

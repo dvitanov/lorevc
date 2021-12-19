@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Fundraising Materials Overview
 
+:::tip Summary
+
+****
+
+:::
+
 The first important goal of preparation is to create effective fundraising materials. A few notes on that topic:
 
 * The purpose of preparing fundraising materials is to develop the ability to confidently pitch your startup to professional investors. That includes being able to tell a compelling story and answer any questions, while assessing whether investors will be able to contribute towards the development of your company if you end up partnering with them.

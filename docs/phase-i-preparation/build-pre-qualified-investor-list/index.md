@@ -13,6 +13,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Investor List Overview
 
+:::tip Summary
+
+****
+
+:::
+
 You can’t pitch if you have nobody to pitch to. That is why it is important to build a list of investors. 
 
 You would think that is an obvious thing to do and yet I constantly see founders, who start their fundraising process before building a database of relevant and qualified investors. Typically, they have 3-5 conversations with investors they already know or can easily get connected to. Most of the time, that doesn’t result in a term sheet and founders stall out because they can’t build momentum, which is critical for closing early-stage funding rounds. 

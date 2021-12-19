@@ -25,9 +25,9 @@ Consider two circles - one, what you want to create, and, two, what the market w
 
 Examples include trying to raise capital in scorched earth markets, i.e. verticals where a prominent company crashed and burned and poisoned the earth for those who follow. Even without a high profile failure, investors might be shy to make a bet in a space they see as having been played out, or one that is so new it is hard to understand, or industries that are a poor fit for the VC model.
 
-While the scope keeps expanding as software is eating the world, on the whole, VCs tend to be interested in a rather niche set of companies and markets. This goes back to the dynamics discussed in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit)
+While the scope keeps expanding as software is eating the world, on the whole, VCs tend to be interested in a rather niche set of companies and markets. This goes back to the dynamics discussed in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit).
 
-Capital Needs
+### Capital Needs
 
 Another aspect to this issue is the question of how much capital is required to build the business. As explained in [Why You Need a Strategy](/deciding-to-fundraise/why-you-need-a-strategy), you want to avoid constantly fundraising. This typically means securing enough capital to hit a big milestone and then raise another round in the next 18-24 months, as per [The Purpose of Fundraising](/deciding-to-fundraise/the-purpose-of-fundraising). 
 
