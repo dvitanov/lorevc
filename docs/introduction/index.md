@@ -19,7 +19,7 @@ What sets this guide apart from other similar materials is that it does not assu
 
 Founders tend to be busy, so here is a quick visual summary of the Fundraising Lore framework:
 
-![The Fundraising Lore Visual Outline](/img/fundraising-lore-visual-summary.svg)
+![The Fundraising Lore: Visual Summary](/img/fundraising-lore-visual-summary.svg)
 
 I suggest you begin by learning more about [who this guide is for](/introduction/who-this-book-is-for), [how it can help](/introduction/how-the-fundraising-lore-can-help), and [how to use it](/introduction/how-to-use-the-fundraising-lore). 
 

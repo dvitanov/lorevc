@@ -37,7 +37,7 @@ If possible, try to have meetings in person. Otherwise, offer to jump on a video
 
 In any case, I would try to do a few things very purposefully:
 
-* First, make sure to have a conversation rather than a one-sided monologue. You are looking to engage this person, not just for the potential intro in the future, but also to learn from their experience. For example, VC-backed entrepreneurs tend to have a good sense of the kinds of objections that investors will raise about your business. You should write those down and create appendix slides that effectively address such topics. See [10+40-Pager](/phase-i-preparation/draft-effective-fundraising-materials/ten-forty-pager) for more on this.
+* First, make sure to have a conversation rather than a one-sided monologue. You are looking to engage this person, not just for the potential intro in the future, but also to learn from their experience. For example, VC-backed entrepreneurs tend to have a good sense of the kinds of objections that investors will raise about your business. You should write those down and create appendix slides that effectively address such topics. See [10+40-Pager](/phase-i-preparation/draft-effective-fundraising-materials/ten-forty-pager-main-deck-appendix) for more on this.
 
 * Second, make sure to actively listen. You are not pitching yet - that comes later. Right now you are just looking to identify and recruit allies and learn from their experience. And that is hard to do when in pitching mode. Stay in learning mode instead.
 
