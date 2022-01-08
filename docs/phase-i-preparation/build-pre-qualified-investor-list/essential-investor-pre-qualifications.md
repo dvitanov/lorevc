@@ -27,6 +27,10 @@ An investor list wouldn’t be much help if it was not qualified. Let’s start 
 
 * **Relevant partner(s)** - this one often gets overlooked. **You can’t pitch “Sequoia” - that’s a firm. Instead, you will be pitching a specific partner within the firm.** Make sure to find out who is most relevant for your company based on their investment portfolio, media interviews, social media, bio, and so forth. 
 
+	One key detail to keep in mind is that there are 2 kinds of VCs: General Partners and everyone else. In the vast majority of cases, General Partners (GPs) are uniquely empowered to make investment decisions on behalf of the firm. Everyone else is not - including Associated, VPs, Junior Partners, Venture Partners, and a myriad other titles.
+
+	Generally speaking, you should be targeting GPs when fundraising. That’s because talking with non-GPs means that now you have to convince 2 people - the non-GP you are talking to, and the GP that can actually sign the check. See [Common Investor Replies](/phase-ii-preparation/soon-but-not-yet/common-investor-replies) for additional thoughts on talking to junior VCs.
+
 * **How you are connected** - this is one of the most important pieces - yet the element that founders most underinvest in. The key thing is to make sure you don’t have a single point of failure. **You want multiple strong connections to a partner so that you have people you can rely on for introductions, backchanneling, and references.** I discuss how to grow your network in [Who to Network With](/phase-i-preparation/network-with-vc-backed-entrepreneurs/who-to-network-with) and expand on how to use it in [Phase II - Fundraising](/phase-ii-fundraising).
 
 * **Preferred stage and check size - generally speaking, founders should target funds that are specifically focused on the current stage that the startup is in - i.e. seed funds if raising a seed round and series A funds if raising an A round.**
