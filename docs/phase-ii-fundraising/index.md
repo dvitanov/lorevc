@@ -27,8 +27,8 @@ In the second phase, fundraising, you start to actually meet with investors with
 
 Fundraising itself can be further broken down into the following 3 parts:
 
-- **Soon But Not Yet** - where you kick off parallel conversations with the goal of qualifying investors, which means finding out whether they are interested in leading and/or participating in your financing round.
+- **[Soon But Not Yet](/phase-ii-fundraising/soon-but-not-yet)** - where you kick off parallel conversations with the goal of qualifying investors, which means finding out whether they are interested in leading and/or participating in your financing round.
 
-- **The Switch** - where you either have a term sheet or are very certain you are about to get one so you change gears from discovery to making a deal.
+- **[The Switch](/phase-ii-fundraising/the-switch)** - where you either have a term sheet or are very certain you are about to get one so you change gears from discovery to making a deal.
 
-- **Signing ASAP** - where you optimize the key terms of the deal, finalize the term sheet, and sign it.
+- **[Signing ASAP](/phase-ii-fundraising/signing-asap)** - where you optimize the key terms of the deal, finalize the term sheet, and sign it.

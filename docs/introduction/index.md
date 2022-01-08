@@ -23,11 +23,11 @@ Founders tend to be busy, so here is a quick visual summary of the Fundraising L
 
 I suggest you begin by learning more about [who this guide is for](/introduction/who-this-book-is-for), [how it can help](/introduction/how-the-fundraising-lore-can-help), and [how to use it](/introduction/how-to-use-the-fundraising-lore). 
 
-For founders still wondering whether to pursue venture capital financing or in the early stages of figuring out their fundraising strategy, [Deciding to Fundraise](/deciding-to-fundraise/why-you-need-a-strategy) offers some thoughts with [The Purpose of Fundraising](/deciding-to-fundraise/the-purpose-of-fundraising) being particularly important. 
+For founders still wondering whether to pursue venture capital financing or in the early stages of figuring out their fundraising strategy, [Deciding to Fundraise](/deciding-to-fundraise) offers some thoughts with [The Purpose of Fundraising](/deciding-to-fundraise/the-purpose-of-fundraising) being particularly important. 
 
-If you want to dive right in, then you can fast forward to [Fundraising Strategy Summary](/fundraising-strategy-summary), which expands on the visual summary above. The following sections beginning with [Phase I - Preparation](/phase-i-preparation/about-preparation) elaborate on the core concepts in greater detail.
+If you want to dive right in, then you can fast forward to [Fundraising Strategy Overview](/fundraising-strategy-overview), which expands on the visual summary above. The following sections beginning with [Phase I - Preparation](/phase-i-preparation) elaborate on the core concepts in greater detail.
 
-I should also add that [Preface](/preface/how-i-am-qualified) contains a bit about my qualifications and motivations as well as some important disclaimers and licensing information. There are also links to provide feedback and track updates to this guide.
+I should also add that [Preface](/preface) contains a bit about my qualifications and motivations as well as some important disclaimers and licensing information. There are also links to provide feedback and track updates to this guide.
 
 I hope you find this book helpful. If you do and have feedback, comments, or suggestions, please [drop me a note](/preface/feedback). I’d love to hear from you.
 

@@ -23,7 +23,7 @@ The Fundraising Lore will be most helpful for startups that are a good fit for V
 
 * The vast majority of companies are not a good fit for VC due to their fundamental business properties. Naturally, such companies won’t benefit from the Fundraising Lore. 
 
-* A very small percentage of companies are a good fit for VCs as explained in [Company /VC Fit](/deciding-to-fundraise/company-vc-fit). Paul Graham has an [eloquent essay](http://www.paulgraham.com/growth.html) ([backup](https://www.dropbox.com/s/n47ttcjx36r38gt/Paul%20Graham%20-%20Startup%20%3D%20Growth.pdf?dl=0)) that explains why we use the word “startup” for such ventures. 
+* A very small percentage of companies are a good fit for VCs as explained in [Company /VC Fit](/deciding-to-fundraise/company-vc-fit). Paul Graham has an [eloquent essay](http://www.paulgraham.com/growth.html) ([backup](/backups/Paul-Graham-Startup-equals-Growth.pdf)) that explains why we use the word “startup” for such ventures. 
 
 * Of such startups, some percentage are stuck. That can happen for a variety of reasons including not being at a [fundable point](/deciding-to-fundraise/tactical-considerations/is-the-business-at-a-fundable-point) and [bad / no planning](/deciding-to-fundraise/why-you-need-a-strategy). Whatever the cause, such companies probably can’t fundraise regardless of how they approach the process (although you should still try if you are not ready to give up yet!).
 
