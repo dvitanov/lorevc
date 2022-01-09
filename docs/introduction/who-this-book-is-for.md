@@ -23,21 +23,21 @@ Let me unpack each key phrase from the summary further:
 
 ### Founder CEOs
 
-While other founders and execs can assist in some aspects, fundraising is fundamentally a CEO responsibility (more on this topic in [Time Commitment](/deciding-to-fundraise/tactical-considerations/time-commitment)). Thus, I focus on and assume that relevant readers are founding CEOs. 
+While other founders and execs can assist in some aspects, fundraising is fundamentally a CEO responsibility (more on this topic in [Time Commitment](/deciding-to-fundraise/tactical-considerations/time-commitment)). Thus, **I focus on and assume that relevant readers are founding CEOs.**
 
 I have taken extra care to provide additional context whenever possible, hoping to help **first-time founders** in particular. That’s because fundraising, like most things, is hardest the first time you do it. 
 
-More experienced founders, including those that have raised before, can still benefit from the Fundraising Lore. A common piece of feedback is that this guide helps shine light on **why** things in the fundraising world work the way they do.
+More experienced founders, including those that have raised before, can still benefit from the Fundraising Lore. A common piece of feedback I get is that this guide helps shine light on **why** things in the fundraising world work the way they do.
 
 ### Early-stage
 
-The Fundraising Lore focuses on early-stage fundraising, which currently means seed and series A rounds. These terms refer to the first financing rounds that include institutional capital. That means venture capital rather than checks written by individuals investing their own money (such as angels). More on the VC model in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit).
+**The Fundraising Lore focuses on early-stage fundraising, which currently means seed and series A rounds.** These terms refer to the first financing rounds that include institutional capital. That means venture capital rather than checks written by individuals investing their own money (such as angels). More on the VC model in [Company / VC Fit](/deciding-to-fundraise/company-vc-fit).
 
-Note that there is a profound difference between early-stage (seed, series A) and late-stage (series B and beyond) venture capital. While later rounds are about scaling something that works already, early rounds are about investors and entrepreneurs taking a leap of faith together to discover what works. That’s hard and rare, especially in light of the fact that most startups fail.
+Note that there is a profound difference between early-stage (seed, series A) and late-stage (series B and beyond) venture capital. While later rounds are about scaling something that works already, early rounds are about investors and entrepreneurs taking a leap of faith together to discover what works. That’s hard and rare, especially in light of the fact that most startups fail. That is why early-stage fundraising is so unique relative to later rounds.
 
 ### Silicon Valley Investors
 
-My fundraising experience is primarily in Silicon Valley and thus the Fundraising Lore will be most relevant for founders raising from investors based there. The Bay Area is a unique entrepreneurial ecosystem in many ways: the amount of startup capital available, the sheer number of experienced founders, investors, and executives, and, most importantly, in the way people think about startups. 
+**My fundraising experience is primarily in Silicon Valley and thus the Fundraising Lore will be most relevant for founders raising from investors based there.** The Bay Area is a unique entrepreneurial ecosystem in many ways: the amount of startup capital available, the sheer number of experienced founders, investors, and executives, and, most importantly, in the way people think about startups. 
 
 The venture and startup ecosystems are becoming more global by the minute. So, with time, differences between Silicon Valley and the rest of the world might diminish. Still, if you are fundraising from investors based outside of Silicon Valley, you should exercise caution when applying advice from the Fundraising Lore. You will probably need to make significant adjustments in your fundraising strategy. 
 

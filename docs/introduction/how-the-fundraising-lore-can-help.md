@@ -31,6 +31,6 @@ The Fundraising Lore will be most helpful for startups that are a good fit for V
 
 * That leaves one category: the middle between “stuck” and “crushing it.” The majority of early-stage startups are somewhere in that middle. They have some things going for them, but not everything has quite come together just yet. 
 
-That middle is where having a coherent framework for fundraising can make the difference between a successful and a failed fundraise. I believe that the founders of startups in such a position will benefit the most from the Fundraising Lore. Even more so if said founders are first-timers and/or haven’t spent much time in Silicon Valley yet want to raise capital from investors based there. 
+**That middle is where having a coherent framework for fundraising can make the difference between a successful and a failed fundraise.** I believe that the founders of startups in such a position will benefit the most from the Fundraising Lore. Even more so if said founders are first-timers and/or haven’t spent much time in Silicon Valley yet want to raise capital from investors based there. 
 
 Naturally, no process can guarantee success (see [Disclaimers](/preface/disclaimers)). But for founders that are willing to put in the time and work required, the Fundraising Lore offers a way to organize the fundraising effort in such a way as to maximize the chances of a successful fundraise. 

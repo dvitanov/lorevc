@@ -20,7 +20,7 @@ title: Time Commitment
 
 While in later rounds other executives can help, **early-stage fundraising is the sole responsibility of the founder and CEO of the company.** It is also rather demanding, quickly turning into a full-time job for anywhere between 6 and 9 months. This is a long stretch of time during which the business is effectively handicapped because the leader is partially absent from day-to-day operations. 
 
-And yet, not dedicating your full attention to fundraising is one of the easier ways to fail to secure a funding round. Make sure you don’t fall into that trap, while still ensuring that the company stays on track. I share a few tips on how to do that in [Reduce Downsides](/phase-i-preparation/prepare-the-company/reduce-downsides). 
+And yet, not dedicating your full attention to fundraising is one of the easier ways to fail to secure a funding round. Make sure you don’t fall into that trap, while still ensuring that the company stays on track. I share a few tips on how to do that in [Offload Responsibilities to Others](/phase-i-preparation/prepare-the-company/reduce-downsides#offload-responsibilities-to-others). 
 
 ### Don’t Share Fundraising Responsibilities
 
