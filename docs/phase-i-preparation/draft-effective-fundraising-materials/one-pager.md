@@ -29,4 +29,4 @@ There are 2 fundamental approaches to this document:
 
 Personally, I find 1-pagers a bit awkward. They are a weird in-between: a bad summary, because they tend to be too long compared to a paragraph, and a bad pitch, because they tend to be too short to tell an inspiring story compared to a 10-pager.
 
-Nonetheless, the 1-pager might be a useful tool in some situations such as when investors request materials before a meeting. I discuss that further in Getting Meetings.
+Nonetheless, **the 1-pager might be a useful tool in some situations such as when investors request materials before a meeting.** I discuss that further in [Common Investor Replies](/phase-ii-fundraising/soon-but-not-yet/common-investor-replies#requesting-materials-before-the-meeting).

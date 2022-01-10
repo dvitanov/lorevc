@@ -21,11 +21,11 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 The 1 paragraph, also known as the elevator pitch, is a 3 sentence summary of the company. It is typically used in email introductions, so it needs to highlight the most impressive and noteworthy characteristics of your startup.
 
-For the 1 paragraph, I recommend using a simple structure like this:
+**For the 1 paragraph, I recommend using a simple structure like this:**
  
-1.	We do X (taken from the 1 sentence mentioned previously)
-2.	Founders / team is impressive because of Y
-3.	Our traction / social proof is Z
+1.	**We do X (taken from the 1 sentence mentioned previously)**
+2.	**Founders / team is impressive because of Y**
+3.	**Our traction / social proof is Z**
 
 For my last startup, Chobolabs, the 1 paragraph looked like this early on: 
 

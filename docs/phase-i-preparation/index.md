@@ -49,9 +49,9 @@ Far more often than not, entrepreneurs don’t take the time to prepare effectiv
 
 This approach runs into the kinds of challenges I described in [Why You Need a Strategy](/deciding-to-fundraise/why-you-need-a-strategy). Here is a very common scenario:
 
-- Most founders know a handful of VCs personally or have a good connection through an entrepreneur friend. They pitch those investors first, hoping for a lucky break, but more often than not receive lukewarm responses, such as the often-dreaded “I am in as soon as you find a lead.”
+- Most founders know a handful of VCs personally or have a good connection through an entrepreneur friend. They pitch those investors first, hoping for a lucky break, but more often than not receive lukewarm responses, such as the dreaded “I am in as soon as you find a lead.”
 - And then.. founders run out of investors to pitch! For the vast majority of founders, talking to 5-10 VCs is not enough. Sure, you might get lucky and get a term sheet, but what happens if you don’t?
-- The most common next step is to frantically try to get more investor intros. That typically results in [unreasonable asks](/deciding-to-fundraise/why-you-need-a-strategy) from your network such as asking founders you know superficially to make introductions to their investors. 
+- The most common next step is to frantically try to get more investor intros. That typically results in [unreasonable asks](/deciding-to-fundraise/why-you-need-a-strategy#unrealistic-asks) from your network such as asking founders you barely know to make introductions to their investors. 
 - Most of the time that doesn’t work because founders have to be careful who they endorse, in order to preserve the signal-to-noise ratio and their own relationships with their investors.
 - Even when you get such intros, they tend to be weak (because the introducer doesn’t know you well) and untargeted (because you did not do investor due diligence in advance).
 - Perhaps worst of all, these intros come sequentially rather than in parallel. This tends to prolong fundraising if not kill it outright by slowing momentum.

@@ -25,7 +25,7 @@ First, some good news. In my experience, **one unique characteristic of the star
 
 That means that connecting to most founders is not very hard. You can use mutual friends, you can go to networking events, you can plug into entrepreneur communities, you can even cold call. I have seen all of these approaches work well. 
 
-To be sure, there will be plenty of disappointments along the way, especially from founders that you are close with, who simply won’t respond or follow up. Try not to take it personally - everyone has a lot going on and their own battles to fight. I know it can be hard to see things that way, which is one reason I talk about this topic a bit more in Managing Your Psychology.
+To be sure, there will be plenty of disappointments along the way, especially from founders that you are close with, who simply won’t respond or follow up. Try not to take it personally - everyone has a lot going on and their own battles to fight. I know it can be hard to see things that way, which is one reason I talk about this topic a bit more in [Managing Your Psychology](/managing-your-psychology).
 
 During the preparation phase, there are three fundamental topics you want to discuss with founders: your fundraising materials (discussed in [Draft Effective Fundraising Materials](/phase-i-preparation/draft-effective-fundraising-materials)), your investor list (discussed in [Build Pre-Qualified Investor List](/phase-i-preparation/build-pre-qualified-investor-list)), and expanding your network with more entrepreneurs.
 
@@ -33,15 +33,15 @@ During the preparation phase, there are three fundamental topics you want to dis
 
 **To kick things off, I suggest asking for 30 minutes of a founder’s time with the goal of getting their feedback on your pitch.** That’s an easy ask because almost everyone loves giving advice. It makes them smart in both the superficial as well as actual sense - seeing 1,000 pitches definitely helps make your own better.
 
-If possible, try to have meetings in person. Otherwise, offer to jump on a video call, which has quickly become much more widely accepted recently. Ultimately, your goal is to have face-to-face time, which helps build trust and connect meaningfully.
+If possible, try to have meetings in person. Otherwise, offer to jump on a video call, which has quickly become much more widely accepted recently. Ultimately, **your goal is to have face-to-face time, which helps build trust and connect meaningfully.**
 
 In any case, I would try to do a few things very purposefully:
 
-* First, make sure to have a conversation rather than a one-sided monologue. You are looking to engage this person, not just for the potential intro in the future, but also to learn from their experience. For example, VC-backed entrepreneurs tend to have a good sense of the kinds of objections that investors will raise about your business. You should write those down and create appendix slides that effectively address such topics. See [10+40-Pager](/phase-i-preparation/draft-effective-fundraising-materials/ten-forty-pager-main-deck-appendix) for more on this.
+* **First, make sure to have a conversation rather than a one-sided monologue.** You are looking to engage this person, not just for the potential intro in the future, but also to learn from their experience. For example, VC-backed entrepreneurs tend to have a good sense of the kinds of objections that investors will raise about your business. You should write those down and create appendix slides that effectively address such topics. See [10+40-Pager](/phase-i-preparation/draft-effective-fundraising-materials/ten-forty-pager-main-deck-appendix) for more on this.
 
-* Second, make sure to actively listen. You are not pitching yet - that comes later. Right now you are just looking to identify and recruit allies and learn from their experience. And that is hard to do when in pitching mode. Stay in learning mode instead.
+* **Second, make sure to actively listen.** You are not pitching yet - that comes later. Right now you are just looking to identify and recruit allies and learn from their experience. And that is hard to do when in pitching mode. Stay in learning mode instead.
 
-* You should always follow up with a brief thank you note, because it’s the right thing to do when people have been kind with their time. If there was a meaningful connection, discussion, advice, then it might make sense to reach out again a few weeks later, once you have made meaningful progress on your pitch. One significant benefit to that approach is that now you have partners that are seeing the evolution of the business and the thinking behind it and are actively helping shape it. Just don’t overdo it - you want to be respectful of everyone’s time and busy schedules.
+* You should always follow up with a brief thank you note, because it’s the right thing to do when people have been kind with their time. **If there was a meaningful connection, discussion, advice, then it might make sense to reach out again a few weeks later, once you have made meaningful progress on your pitch.** One significant benefit to that approach is that now you have partners that are seeing the evolution of the business and the thinking behind it and are actively helping shape it. Just don’t overdo it - you want to be respectful of everyone’s time and busy schedules.
 
 ### Investor List Feedback
 

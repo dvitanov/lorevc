@@ -24,7 +24,7 @@ There are three distinct phases:
     4. [Prepare the Company](/phase-i-preparation/prepare-the-company)
     5. [Understand the Fundraising Market](/phase-i-preparation/understand-the-fundraising-market)
 
-* **[Phase II - Fundraising](/phase-ii-fundraising)** - this is where you start talking with investors with the goal of emerging with a signed term sheet, which is a brief document that outlines the agreed financing terms. This is the actual hard part of fundraising. The most important overall objective is to hit the ground running and spin up high momentum, which is key to closing a round. It is likely you will have a lot of conversations that don’t lead to a term sheet. Tune those out and keep going. Finding a believer is a numbers game. I recommend spending about 3 months on this phase and splitting it into 3 distinct parts:
+* **[Phase II - Fundraising](/phase-ii-fundraising)** - this is where you start talking with investors with the goal of signing a term sheet, which is a brief document that outlines the agreed financing terms. This is the actual hard part of fundraising. The most important overall objective is to hit the ground running and spin up high momentum, which is key to closing a round. It is likely you will have a lot of conversations that don’t lead to a term sheet. Tune those out and keep going. Finding a believer is a numbers game. I recommend spending about 3 months on this phase and splitting it into 3 distinct parts:
     1. [Soon But Not Yet](/phase-ii-fundraising/soon-but-not-yet) - to qualify investors
     2. [The Switch](/phase-ii-fundraising/the-switch) - when you have enough momentum
     3. [Signing ASAP](/phase-ii-fundraising/signing-asap) - maximize competition to get best possible term sheet

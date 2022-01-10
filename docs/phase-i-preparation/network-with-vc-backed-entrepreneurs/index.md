@@ -23,7 +23,7 @@ The most important part of preparing for a fundraise is networking. There are fi
 
 ### Pitch Feedback
 
-One of the key priorities in Phase I - Preparation is creating effective [fundraising materials](/phase-i-preparation/draft-effective-fundraising-materials). That’s a process that typically requires feedback and iteration, even if you have prior experience with pitching. 
+One of the key priorities in Phase I - Preparation is [drafting effective fundraising materials](/phase-i-preparation/draft-effective-fundraising-materials). That’s a process that typically requires feedback and iteration, even if you have prior experience with pitching. 
 
 Asking for feedback on your investor deck is a very effective way to network, in particular with VC-backed entrepreneurs. And it has the fantastic side effect of helping you improve your fundraising materials and practice your pitch.
 

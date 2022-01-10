@@ -22,19 +22,19 @@ As discussed in [Phase II - Fundraising](/phase-ii-fundraising), the overall key
 
 ### Hoard Good News 
 
-One example is hoarding good news such as previous rounds of financing, making key hires, signing up big customers, receiving government grants, hitting milestones, releasing features, or forming important partnerships. It is not uncommon to do all or some of these things but not announce them publicly for quite some time, saving them for during the fundraise, when they can help create and maximize momentum. 
+**One example is hoarding good news such as previous rounds of financing, making key hires, signing up big customers, receiving government grants, hitting milestones, releasing features, or forming important partnerships.** It is not uncommon to do all or some of these things but not announce them publicly for quite some time, saving them for during the fundraise, when they can help create and maximize momentum. 
 
 ### Build an Advisory Board
 
-One type of good news is worth calling out separately: building an advisory board. If you find true champions that are willing and able to help you in a big way, you should consider adding them to an advisory board. A typical arrangement would be an equity package of 0.25% vesting monthly over 2 years or 0.5% vesting monthly over 4 years. Such a setup can help further incentivize them - although it is worth mentioning that a true champion would help regardless, and treat the equity as a cherry on top.
+**One type of good news is worth calling out separately: building an advisory board.** If you find true champions that are willing and able to help you in a big way, you should consider adding them to an advisory board. A typical arrangement would be an equity package of 0.25% vesting monthly over 2 years or 0.5% vesting monthly over 4 years. Such a setup can help further incentivize them - although it is worth mentioning that a true champion would help regardless, and treat the equity as a cherry on top.
 
-Advisory boards are helpful in at least two ways. First, you get to leverage the experience and wisdom of your advisors while building the business. This goes beyond the fundraise - advisors can be helpful throughout your company’s evolution. Second, you get to lean on your advisors’ reputation and network, which can help make fundraising rounds happen.
+**Advisory boards are helpful in at least two ways. First, you get to leverage the experience and wisdom of your advisors while building the business. This goes beyond the fundraise - advisors can be helpful throughout your company’s evolution. Second, you get to lean on your advisors’ reputation and network, which can help make fundraising rounds happen.**
 
 Don’t overdo the advisory board. 2-5 true champions are better than 10 lukewarm supporters.
 
 ### Plan a PR Campaign
 
-Hoarding good news works especially well when combined with a PR campaign. In a nutshell, you can think of the “list of good news“ as potential headlines, some of which might make sense to announce via the media. If you decide to employ such a strategy, this is the time to start preparing including:
+**Hoarding good news works especially well when combined with a PR campaign. In a nutshell, you can think of the “list of good news“ as potential headlines, some of which might make sense to announce via the media.** If you decide to employ such a strategy, this is the time to start preparing including:
 
 * Which of your “good news” is actually newsworthy enough to be interesting to a reporter.
 
@@ -52,6 +52,6 @@ Naturally, PR campaigns can go beyond media articles. For example, many Silicon 
 
 ### Leverage Events
 
-In addition to press, you can include other kinds of activities in your strategy including speaking at conferences, presenting at a demo day, participating in competitions, or whatever else you might think is effective. 
+**In addition to press, you can include other kinds of activities in your strategy including speaking at conferences, presenting at a demo day, participating in competitions, or whatever else you might think is effective at reaching your target investors.**
 
 Whatever you decide to use, make sure to time things in a way that reinforces your fundraising efforts. Essentially, you want your message to be heard and seen when it helps - that is, once you are out there getting introductions to investors and having conversations with them. That’s how momentum is created and maximized.
