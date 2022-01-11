@@ -16,7 +16,7 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 :::tip Summary
 
-****
+**Your goals when meeting an investor for the first time should be to 1/ qualify the investor, and 2/ learn from them. To do that, make sure to make the meeting two-sided.**
 
 :::
 
@@ -34,11 +34,11 @@ Remember: you are not asking for an investment or applying for funding. You are 
 
 Let’s assume that you have scheduled a 60-minute first meeting with an investor. Here is how it would typically go:
 
-It is common for the investor to offer to introduce themselves and their firm first (and if they don’t offer, you should probably prompt them). They will probably spend 5-10 minutes doing that. You should pay close attention to what they say and how they say it. In the back of your mind, you should be thinking about follow up questions.
+**It is common for the investor to offer to introduce themselves and their firm first** (and if they don’t offer, you should probably prompt them). They will probably spend 5-10 minutes doing that. You should pay close attention to what they say and how they say it. In the back of your mind, you should be thinking about follow up questions.
 
-Afterwards, it’s your turn to introduce yourself and your company. That will probably take 20-30 minutes. You should be concise, confident, and clear in your delivery, which should come in easily because you have had lots of practice with entrepreneurs. Your personal story should ideally flow directly into your observations about key worldly trends, which became the basis of your startup. Recall the best practices summarized in [10-Pager (Main Deck)](/phase-i-preparation/draft-effective-fundraising-materials/ten-pager-main-deck) and stick to them.
+**Afterwards, it’s your turn to introduce yourself and your company.** That will probably take 20-30 minutes. You should be concise, confident, and clear in your delivery, which should come in easily because you have had lots of practice with entrepreneurs. Your personal story should ideally flow directly into your observations about key worldly trends, which became the basis of your startup. Recall the best practices summarized in [10-Pager (Main Deck)](/phase-i-preparation/draft-effective-fundraising-materials/ten-pager-main-deck) and stick to them.
 
-The remainder of the time should be spend discussing. You should try to make this part a two-way conversation as much as possible.
+**The remainder of the time should be spend discussing.** You should try to make this part a two-way conversation as much as possible.
 
 ### Make The Meeting Two-Sided
 
@@ -54,17 +54,17 @@ Here are a few typical examples of different types of topics and questions:
 
 - **About your market and competition** - good investors see most deals in verticals they are interested in. You can take advantage of that to assess the VC as well as learn from them. For example, when you describe your market and how you are different than the competition, you can ask if they are familiar with the company. What do they think of it? Did they see the pitch for that company’s latest round and if so, why did they pass or invest?
 
-Don’t try to ask all of these questions in the first meeting. Instead, think of this as the beginning of a conversation. Start with whatever fits naturally and bank the rest of the questions for follow up meetings.
+**Don’t try to ask all of these questions in the first meeting. Instead, think of this as the beginning of a conversation. Start with whatever fits naturally and bank the rest of the questions for follow up meetings.**
 
 ### Tactical Advice
 
-- **Using a deck** - I highly recommend not using a deck in the first meeting. Remember: [you are not fundraising yet](/phase-ii-fundraising/soon-but-not-yet). You are starting a conversation to get to know someone - and see if they want to get to know you back. You just met, it’s too early to ask for their hand in marriage (which is what a deck signals)!
+- **Using a deck** - **I highly recommend not using a deck in the first meeting.** Remember: [you are not fundraising yet](/phase-ii-fundraising/soon-but-not-yet). You are starting a conversation to get to know someone - and see if they want to get to know you back. You just met, it’s too early to ask for their hand in marriage (which is what a deck signals)!
 
-- **Answering questions** - don’t try to answer every question that you get asked. Instead, assess things critically. If the questions are good, engage as you see fit. And if they are not, then ignore them or push back. Remember: investors are trying to assess you the same way you are assessing them. And a big part of that is trying to get a feel for the judgement and critical thinking capabilities of the other party.
+- **Answering questions** - **don’t try to answer every question that you get asked.** Instead, assess things critically. If the questions are good, engage as you see fit. And if they are not, then ignore them or push back. Remember: investors are trying to assess you the same way you are assessing them. And a big part of that is trying to get a feel for the judgement and critical thinking capabilities of the other party.
 
-- **Name dropping** - as I mentioned in [Network with VC-backed Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs), one of the goals of networking is to have multiple strong connections to investors. One or perhaps a couple of those will do the intro. The rest can make for great references. So you should find a way to naturally mention them in your conversation with the investor. Interested VCs will certainly be doing due diligence on you after the meeting and in this way you can influence them to talk to people in your network that are already willing to bat for you.
+- **Name dropping** - as I mentioned in [Network with VC-backed Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs), one of the goals of networking is to have multiple strong connections to investors. One or perhaps a couple of those will do the intro. The rest can make for great references. So **you should find a way to naturally mention them in your conversation with the investor.** Interested VCs will certainly be doing due diligence on you after the meeting and in this way you can influence them to talk to people in your network that are already willing to bat for you.
 
-- **Exiting meetings** - hopefully your meetings are engaging and productive. But what if you are just not connecting with the investor? Perhaps they are quiet and obviously disinterested, or even rudely looking at their phone. Or perhaps you are just not compatible for whatever interpersonal reason. In those cases, it helps to have a plan for exiting meetings. I suggest pivoting at an appropriate time to something along the lines of “What we are working on is really specific, so it’s not a good fit for most investors. Tell me, what are you most excited about?” Then let them talk about their priorities and interests and offer to connect with entrepreneurs working on those verticals. Afterwards, thank them for their time and move to the next meeting.
+- **Exiting meetings** - hopefully your meetings are engaging and productive. But what if you are just not connecting with the investor? Perhaps they are quiet and obviously disinterested, or even rudely looking at their phone. Or perhaps you are just not compatible for whatever interpersonal reason. In those cases, it helps to have a plan for exiting meetings. **I suggest pivoting at an appropriate time to something along the lines of “What we are working on is really specific, so it’s not a good fit for most investors. Tell me, what are you most excited about?”** Then let them talk about their priorities and interests and offer to connect with entrepreneurs working on those verticals. Afterwards, thank them for their time and move to the next meeting.
 
 ### Assess Founder / Investor Fit
 

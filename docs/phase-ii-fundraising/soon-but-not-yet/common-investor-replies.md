@@ -16,11 +16,9 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 :::tip Summary
 
-****
+**In this section, I discuss common situations that arise after the introduction has been made such as a quick and excited response, silence, redirecting to others, and requesting materials before the meeting.**
 
 :::
-
-In this section, I discuss common situations that arise after the introduction has been made.
 
 ### Quick and Excited Response
 
@@ -54,9 +52,9 @@ Such redirection can happen during the intro opt-in process or, more rarely, aft
 
 So, should you engage with junior VCs? Here are some pros and cons to consider:
 
-Pros: junior VCs are a smart and hard-working bunch that are incentivized to prove themselves by finding the next great deal. They obviously have the trust of the GP they are working with and know the firm and how it operates. They can be a great ally that can help navigate the process.
+- Pros: junior VCs are a smart and hard-working bunch that are incentivized to prove themselves by finding the next great deal. They obviously have the trust of the GP they are working with and know the firm and how it operates. They can be a great ally that can help navigate the process.
 
-Cons: they are junior, as in, they can’t make investment decisions. So that means that convincing them doesn’t actually mean that much - you have to then win over the GP to have a shot at funding. Furthermore, junior investors tend to assess deals very differently than experienced GPs. While there are plenty of exceptions, generally, junior VCs don’t have much entrepreneurial or investing experience and thus haven’t seen for themselves what a breakout company looks like. They tend to put metrics into higher regard because that’s the natural thing to do if you are an intelligent and rational person. Metrics do matter of course. But they are a lagging, not a leading indicator. So relying on them too much is detrimental.
+- Cons: they are junior, as in, they can’t make investment decisions. So that means that convincing them doesn’t actually mean that much - you have to then win over the GP to have a shot at funding. Furthermore, junior investors tend to assess deals very differently than experienced GPs. While there are plenty of exceptions, generally, junior VCs don’t have much entrepreneurial or investing experience and thus haven’t seen for themselves what a breakout company looks like. They tend to put metrics into higher regard because that’s the natural thing to do if you are an intelligent and rational person. Metrics do matter of course. But they are a lagging, not a leading indicator. So relying on them too much is detrimental.
 
 Ultimately, whether to engage with a junior VC is a personal decision that you have to make as the Founder and CEO. My advice is to avoid engaging in the case of redirection, or delay until you have more fundraising momentum.
 

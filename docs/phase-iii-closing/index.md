@@ -14,8 +14,12 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Phase III - Closing
 
-In the third and final phase of fundraising, you work with investors to go from a signed term sheet to “money in the bank,” a process which is called closing. There are a number of logistics involved that typically take 2-3 months to complete.
+:::tip Summary
+
+**In the third and final phase of fundraising, you work with investors to go from a signed term sheet to “money in the bank,” a process which is called closing.**
+
+:::
 
 Relative to [Phase I - Preparation](/phase-i-preparation) and [Phase II - Fundraising](/phase-ii-fundraising), closing is rather easy since you have a firm footing upon which to stand - namely, a signed term sheet. While I advise against celebrating before the actual close, founders generally breathe a sigh of relief, because the hardest part is behind them. While the round can still fall through, it is rather unlikely, especially if working with a reputable venture capital firm. 
 
-Even so, there are a number of key priorities during closing. The most important is to get it done as soon as possible so you can go back to building the business. This breaks down into a number of goals, which I discuss next.
+Even so, there are a number of key priorities during closing, which typically take 2-3 months to complete. **Your most important objective should be to get everything done as quickly as possible so you can go back to building the business.**

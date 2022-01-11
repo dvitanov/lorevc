@@ -16,7 +16,7 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 :::tip Summary
 
-****
+**A good order for meeting investors is low -> high -> medium -> everyone else. Make sure to parallelize as much as possible!**
 
 :::
 
@@ -24,7 +24,7 @@ Naturally, the first step of kicking off conversations is getting introductions 
 
 ### Order of Investor Meetings
 
-**A good order for meeting investors is low -> high -> medium -> everyone else.** The ranking refers to the “overall fit” category, which I described in [Essential Investor Pre-Qualifications](/phase-i-preparation/build-pre-qualified-investor-list/essential-investor-pre-qualifications).
+**A good order for meeting investors is low -> high -> medium -> everyone else. The ranking refers to the “overall fit” category, which I described in [Essential Investor Pre-Qualifications](/phase-i-preparation/build-pre-qualified-investor-list/essential-investor-pre-qualifications).**
 
 Why start with “low?” Even though you have had plenty of practice pitching entrepreneurs as per [Network with VC-backed Entrepreneurs](/phase-i-preparation/network-with-vc-backed-entrepreneurs), you should expect that you won’t be at your best in the first few investor conversations. After all, the stakes are much higher when talking to VCs. Starting with “low” fit VCs is basically warming up for more promising conversations later in the process.
 
@@ -32,7 +32,7 @@ Once you are in good shape, you want to hit the “high” category, because tho
 
 Finally, you can finish off with the ”medium” fit VCs and then everyone else. At this point you are working the long tail, which is still meaningful because pre-qualifying is not an exact business.
 
-Regardless of your “fit” ranking, do not underestimate any VC conversations. Presumably, all investors on your list are there for a reason. And you never know when you might run into a believer!
+**Regardless of your “fit” ranking, do not underestimate any VC conversations. Presumably, all investors on your list are there for a reason. And you never know when you might run into a believer!**
 
 ### Parallelize
 

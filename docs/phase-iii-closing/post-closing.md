@@ -14,13 +14,19 @@ description: The Fundraising Lore is a guide to help founder CEOs successfully r
 
 # Post-Closing
 
-The money is in the bank! The round has been closed! Amazing! Congrats! Time to pop the champagne, breathe a sigh of relief, and celebrate. Right?
+:::tip Summary
 
-Actually, most founders I have worked with do not naturally take a moment to celebrate when they close their funding round. Instead, there is a flurry of emotions that hit you one after the other.
+**In this section I share a few tips on managing startup life post-closing, including taking time to celebrate and recuperate as well as recognizing that you are in a new context with different demands, opportunities, and challenges.**
 
-Initially, the experience can feel quite surreal. You wake up to a much larger bank account - practically overnight (it feels that way despite the fact that the last 9 months have been a non-stop grind). When the news breaks, you suddenly become “hot” and everyone congratulates you on your success - colleagues, prospective employees and investors, the media, friends, even your family despite probably not knowing much about how venture capital works. It’s understandable; the dollar amounts tend to be large after all.
+:::
 
-Then something akin to panic sets in. You realize that this is not success, but just a milestone. And one that comes with a significant burden too. Now you actually have to deploy the capital with the goal of significantly increasing the valuation of the company. You have 18-24 months to accomplish that before jumping back on the fundraising rollercoaster. 
+**The money is in the bank! The round has been closed! Amazing! Congrats! Time to pop the champagne, breathe a sigh of relief, and celebrate. Right?**
+
+**Actually, most founders I have worked with do not naturally take a moment to celebrate when they close their funding round.** Instead, there is a flurry of emotions that hit you one after the other.
+
+**Initially, the experience can feel quite surreal.** You wake up to a much larger bank account - practically overnight (it feels that way despite the fact that the last 9 months have been a non-stop grind). When the news breaks, you suddenly become “hot” and everyone congratulates you on your success - colleagues, prospective employees and investors, the media, friends, even your family despite probably not knowing much about how venture capital works. It’s understandable; the dollar amounts tend to be large after all.
+
+**Then something akin to panic sets in. You realize that this is not success, but just a milestone.** And one that comes with a significant burden too. Now you actually have to deploy the capital with the goal of significantly increasing the valuation of the company. You have 18-24 months to accomplish that before jumping back on the fundraising rollercoaster. 
 
 Also, while fundraising in the last few months, you had less time to spend on the business. So now there may be all sorts of fires that need to be put out. 
 
