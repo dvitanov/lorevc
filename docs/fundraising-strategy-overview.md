@@ -29,7 +29,7 @@ There are three distinct phases:
     2. [The Switch](/phase-ii-fundraising/the-switch) - when you have enough momentum
     3. [Signing ASAP](/phase-ii-fundraising/signing-asap) - maximize competition to get best possible term sheet
 
-* **[Phase II - Closing](/phase-iii-closing)** - this is the process of going from a signed term sheet to money in the bank. Don’t forget: the round is not done until money is actually in the bank. That usually takes about 2-3 months and includes the following key tasks:
+* **[Phase III - Closing](/phase-iii-closing)** - this is the process of going from a signed term sheet to money in the bank. Don’t forget: the round is not done until money is actually in the bank. That usually takes about 2-3 months and includes the following key tasks:
     1. [Build Out the Syndicate](/phase-iii-closing/build-out-the-syndicate)
     2. [Complete Due Diligence](/phase-iii-closing/complete-due-diligence)
     3. [Finalize Legal Documents](/phase-iii-closing/finalize-legal-documents)
