@@ -38,7 +38,7 @@ Here is some advice that might help during these crazy times:
 
 - **Take a moment to celebrate.** Both for yourself, as well as with your cofounders and team. This is a major milestone and it will allow you to do things that were previously out of reach. That’s worth acknowledging. 
 
-- **Recuperate as much as logistics permit.** Fundraising is physically and mentally draining. Take a vacation if you can. Even a weekend gateway can be tremendously recharging.
+- **Recuperate as much as logistics permit.** Fundraising is physically and mentally draining. Take a vacation if you can. Even a weekend getaway can be tremendously recharging.
 
 - **Thank those, who helped you.** It takes a village and it is worth circling back to everyone who lent you a hand with introductions and advice and so on, as well as people who supported you emotionally.
 
